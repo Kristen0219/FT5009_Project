@@ -1,0 +1,23 @@
+{
+  "archive_entries": 472,
+  "download_attempts": 399,
+  "downloaded": 399,
+  "reports_parsed": 399,
+  "signal_rows": 15960,
+  "unique_sgx_codes": 236,
+  "manual_review": 0,
+  "timing_anomalies": 3,
+  "duplicate_week_records": 0,
+  "title_sheet_mismatches": 0,
+  "ranking_reviews": 0,
+  "by_publication_year": {
+    "2019": 51,
+    "2020": 52,
+    "2021": 52,
+    "2022": 51,
+    "2023": 50,
+    "2024": 52,
+    "2025": 52,
+    "2026": 39
+  }
+}

@@ -1,0 +1,23 @@
+Member 1 尚需实际完成的数据工作
+
+[ ] 全部周报目录，按实际发布日期纳入 2019-01-01—2026-09-30
+[ ] 原始周报 PDF 与 source URL / SHA256
+[ ] 每份四张 Weekly Top 10 表转录与人工抽查
+[ ] 全部历年证券映射，不能只选存续股票
+[ ] 日股价、share volume、SGD total return、基准交易日历
+[ ] 2019 前至少 500 个共同日收益所需的更早价格
+[ ] 公司行动/退市/停牌/外汇处理记录
+[ ] 借券可得性证据；没有证据则明确建模假设
+[ ] audit.py 通过，人工核查报告档案完整性
+[ ] 两个 baseline 的 gross / net / double_cost 输出
+[ ] 用真实结果补充报告数据覆盖、排除情况和限制
+
+交 Member 2：全部 input + output + backtest.py + README + 原始来源。
+交 Member 3：net daily、net holdings、asset_returns_aligned、benchmark、覆盖/排除记录。
+
+题目没有指定：49%/49%、10% cap、20bps、3%借券、下一交易日收盘。
+它们是代码默认的固定研究假设，组内应先统一并写入报告，不能当作题目要求。
+不需要为了初始 VaR 把所有历史不足 500 日的证券从交易中永久排除。
+
+本包不是最终全组提交文件；组内最终 ZIP 命名 FT5009_groupXX_group_project.zip。
+最终报告 A4 最多 10 页（含参考文献），附姓名/学号/贡献和 AI assistance disclosure。

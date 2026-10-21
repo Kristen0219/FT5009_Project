@@ -1,0 +1,446 @@
+[
+  {
+    "publication_date": "2026-10-19",
+    "title": "SGX Fund Flow Weekly Tracker (Week of 12 Oct 2026)",
+    "url": "https://api2.sgx.com/sites/default/files/2026-10/SGX%20Fund%20Flow%20Weekly%20Tracker%20%28Week%20of%2012%20Oct%202026%29.xlsx",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2026-10-12",
+    "title": "SGX Fund Flow Weekly Tracker (Week of 5 Oct 2026)",
+    "url": "https://api2.sgx.com/sites/default/files/2026-10/SGX%20Fund%20Flow%20Weekly%20Tracker%20%28Week%20of%205%20Oct%202026%29.xlsx",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2026-10-05",
+    "title": "SGX Fund Flow Weekly Tracker (Week of 28 Sep 2026)",
+    "url": "https://api2.sgx.com/sites/default/files/2026-10/SGX%20Fund%20Flow%20Weekly%20Tracker%20%28Week%20of%2028%20Sep%202026%29.xlsx",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2024-12-18",
+    "title": "Daily Momentum Report as of 17 Dec 2024",
+    "url": "https://api2.sgx.com/sites/default/files/2024-12/Daily%20Momentum%20Report%20as%20of%2017%20Dec%202024.pdf",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2024-02-16",
+    "title": "SGX Institutional and Retail Fund Flow (Top 250 Most Traded YTD 14 Feb 2024)",
+    "url": "https://api2.sgx.com/sites/default/files/2024-02/SGX%20Institutional%20and%20Retail%20Fund%20Flow%20%28Top%20250%20Most%20Traded%20YTD%2014%20Feb%202024%29.xlsx",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2024-01-11",
+    "title": "SGX Institutional and Retail Fund Flow Monthly Tracker (December 2023)",
+    "url": "https://api2.sgx.com/sites/default/files/2024-01/SGX%20Fund%20Flow%20Monthly%20Tracker%20%28December%202023%29_3.xlsx",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2023-12-05",
+    "title": "SGX Institutional and Retail fund flow monthly tracker (November 2023)",
+    "url": "https://api2.sgx.com/sites/default/files/2023-12/SGX%20Fund%20Flow%20Monthly%20Tracker%20%28November%202023%29.xlsx",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2023-11-03",
+    "title": "SGX Institutional and Retail fund flow monthly tracker (October 2023)",
+    "url": "https://api2.sgx.com/sites/default/files/2023-11/SGX%20Fund%20Flow%20Monthly%20Tracker%20%28October%202023%29.xlsx",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2023-10-04",
+    "title": "SGX Institutional and Retail fund flow monthly tracker (September 2023)",
+    "url": "https://api2.sgx.com/sites/default/files/2023-10/SGX%20Fund%20Flow%20Monthly%20Tracker%20%28September%202023%29.xlsx",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2023-09-08",
+    "title": "SGX Institutional and Retail fund flow monthly tracker (August 2023)",
+    "url": "https://api2.sgx.com/sites/default/files/2023-09/SGX%20Fund%20Flow%20Monthly%20Tracker%20%28August%202023%29.xlsx",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2023-08-02",
+    "title": "SGX Institutional and Retail fund flow monthly tracker (July 2023)",
+    "url": "https://api2.sgx.com/sites/default/files/2023-08/SGX%20Fund%20Flow%20Monthly%20Tracker%20%28July%202023%29.xlsx",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2023-07-17",
+    "title": "SGX Institutional and Retail fund flow monthly tracker (June 2023)",
+    "url": "https://api2.sgx.com/sites/default/files/2023-07/SGX%20Fund%20Flow%20Monthly%20Tracker%20%28June%202023%29.xlsx",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2023-06-07",
+    "title": "SGX Institutional and Retail fund flow monthly tracker (May 2023)",
+    "url": "https://api2.sgx.com/sites/default/files/2023-06/SGX%20Fund%20Flow%20Monthly%20Tracker%20%28May%202023%29.xlsx",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2023-05-05",
+    "title": "SGX Institutional and Retail fund flow monthly tracker (April 2023)",
+    "url": "https://api2.sgx.com/sites/default/files/2023-05/SGX%20Fund%20Flow%20Monthly%20Tracker%20%28April%202023%29.xlsx",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2023-04-05",
+    "title": "SGX Institutional and Retail fund flow monthly tracker (March 2023)",
+    "url": "https://api2.sgx.com/sites/default/files/2023-04/SGX%20Fund%20Flow%20Monthly%20Tracker%20%28March%202023%29.xlsx",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2023-03-07",
+    "title": "SGX Institutional and Retail fund flow monthly tracker (February 2023)",
+    "url": "https://api2.sgx.com/sites/default/files/2023-03/SGX%20Fund%20Flow%20Monthly%20Tracker%20%28February%202023%29.xlsx",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2023-02-10",
+    "title": "SGX Institutional and Retail fund flow monthly tracker (January 2023)",
+    "url": "https://api2.sgx.com/sites/default/files/2023-02/SGX%20Fund%20Flow%20Monthly%20Tracker%20%28January%202023%29.xlsx",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2023-01-05",
+    "title": "SGX Institutional and Retail fund flow monthly tracker (December 2022)",
+    "url": "https://api2.sgx.com/sites/default/files/2023-01/SGX%20Fund%20Flow%20Monthly%20Tracker%20%28December%202022%29.xlsx",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2022-12-15",
+    "title": "SGX Institutional and Retail fund flow monthly tracker (November 2022)",
+    "url": "https://api2.sgx.com/sites/default/files/2022-12/SGX%20Fund%20Flow%20Monthly%20Tracker%20%28November%202022%29.xlsx",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2022-11-07",
+    "title": "SGX Institutional and Retail fund flow monthly tracker (October 2022)",
+    "url": "https://api2.sgx.com/sites/default/files/2022-11/SGX%20Fund%20Flow%20Monthly%20Tracker%20%28October%202022%29.xlsx",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2022-10-07",
+    "title": "SGX Institutional and Retail fund flow monthly tracker (September 2022)",
+    "url": "https://api2.sgx.com/sites/default/files/2022-10/SGX%20Fund%20Flow%20Monthly%20Tracker%20%28September%202022%29.xlsx",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2022-09-06",
+    "title": "SGX Institutional and Retail fund flow monthly tracker (August 2022)",
+    "url": "https://api2.sgx.com/sites/default/files/2022-09/SGX%20Fund%20Flow%20Monthly%20Tracker%20%28August%202022%29.xlsx",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2022-08-12",
+    "title": "SGX Institutional and Retail fund flow monthly tracker (July 2022)",
+    "url": "https://api2.sgx.com/sites/default/files/2022-08/SGX%20Fund%20Flow%20Monthly%20Tracker%20%28July%202022%29.xlsx",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2022-07-08",
+    "title": "SGX Institutional and Retail fund flow monthly tracker (June 2022)",
+    "url": "https://api2.sgx.com/sites/default/files/2022-07/SGX%20Fund%20Flow%20Monthly%20Tracker%20%28June%202022%29.xlsx",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2022-06-13",
+    "title": "SGX Institutional and Retail fund flow monthly tracker (May 2022)",
+    "url": "https://api2.sgx.com/sites/default/files/2022-06/SGX%20Fund%20Flow%20Monthly%20Tracker%20%28May%202022%29.xlsx",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2022-05-04",
+    "title": "SGX Institutional and Retail fund flow monthly tracker (April 2022)",
+    "url": "https://api2.sgx.com/sites/default/files/2022-05/SGX%20Fund%20Flow%20Monthly%20Tracker%20%28April%202022%29.xlsx",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2022-04-11",
+    "title": "SGX Institutional and Retail fund flow monthly tracker (March 2022)",
+    "url": "https://api2.sgx.com/sites/default/files/2022-04/SGX%20Fund%20Flow%20Monthly%20Tracker%20%28March%202022%29.xlsx",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2022-03-23",
+    "title": "SGX Institutional and Retail fund flow monthly tracker (February 2022)",
+    "url": "https://api2.sgx.com/sites/default/files/2022-03/SGX%20Fund%20Flow%20Monthly%20Tracker%20%28February%202022%29.xlsx",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2019-08-07",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - July 2019",
+    "url": "https://api2.sgx.com/sites/default/files/2019-08/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20July%202019.pdf",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2019-07-04",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - June 2019",
+    "url": "https://api2.sgx.com/sites/default/files/2019-07/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20June%202019.pdf",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2019-06-03",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - May 2019",
+    "url": "https://api2.sgx.com/sites/default/files/2019-06/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20May%202019_0.pdf",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2019-05-06",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - April 2019",
+    "url": "https://api2.sgx.com/sites/default/files/2019-05/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20April%202019_0.pdf",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2019-04-03",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - March 2019",
+    "url": "https://api2.sgx.com/sites/default/files/2019-04/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20March%202019_1.pdf",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2019-03-07",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - February 2019",
+    "url": "https://api2.sgx.com/sites/default/files/2019-03/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20February%202019_1.pdf",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2019-02-13",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - January 2019",
+    "url": "https://api2.sgx.com/sites/default/files/2019-02/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20January%202019_0.pdf",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2019-01-07",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - December 2018",
+    "url": "https://api2.sgx.com/sites/default/files/2019-01/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20December%202018_1.pdf",
+    "reason": "not_weekly_fund_flow"
+  },
+  {
+    "publication_date": "2018-12-31",
+    "title": "SGX Institutional and Retail fund flow weekly tracker (Week of 24 December 2018)",
+    "url": "https://api2.sgx.com/sites/default/files/2019-01/SGX%20Institutional%20and%20Retail%20fund%20flow%20weekly%20tracker%20%28Week%20of%2024%20December%202018%29.xlsx",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2018-12-24",
+    "title": "SGX Institutional and Retail fund flow weekly tracker (Week of 17 December 2018)",
+    "url": "https://api2.sgx.com/sites/default/files/2018-12/SGX%20Institutional%20and%20Retail%20fund%20flow%20weekly%20tracker%20%28Week%20of%2017%20December%202018%29.xlsx",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2018-12-17",
+    "title": "SGX Institutional and Retail fund flow weekly tracker (Week of 11 to 14 December 2018)",
+    "url": "https://api2.sgx.com/sites/default/files/2018-12/SGX%20Institutional%20and%20Retail%20fund%20flow%20weekly%20tracker%20%28Week%20of%2011%20to%2014%20December%202018%29.xlsx",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2018-12-10",
+    "title": "SGX Institutional and Retail fund flow weekly tracker (Week of 3 December 2018)",
+    "url": "https://api2.sgx.com/sites/default/files/2018-12/SGX%20Institutional%20and%20Retail%20fund%20flow%20weekly%20tracker%20%28Week%20of%203%20December%202018%29.xlsx",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2018-12-04",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - November 2018",
+    "url": "https://api2.sgx.com/sites/default/files/2018-12/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20November%202018.pdf",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2018-12-03",
+    "title": "SGX Institutional and Retail fund flow weekly tracker (Week of 26 November 2018)",
+    "url": "https://api2.sgx.com/sites/default/files/2018-12/SGX%20Institutional%20and%20Retail%20fund%20flow%20weekly%20tracker%20%28Week%20of%2026%20November%202018%29.xlsx",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2018-11-26",
+    "title": "SGX Institutional and Retail fund flow weekly tracker (Week of 19 November 2018)",
+    "url": "https://api2.sgx.com/sites/default/files/2018-11/SGX%20Institutional%20and%20Retail%20fund%20flow%20weekly%20tracker%20%28Week%20of%2019%20November%202018%29.xlsx",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2018-11-19",
+    "title": "SGX Institutional and Retail fund flow weekly tracker (Week of 12 November 2018)",
+    "url": "https://api2.sgx.com/sites/default/files/2018-11/SGX%20Institutional%20and%20Retail%20fund%20flow%20weekly%20tracker%20%28Week%20of%2012%20November%202018%29.xlsx",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2018-11-12",
+    "title": "SGX Institutional and Retail fund flow weekly tracker (Week of 5 November 2018)",
+    "url": "https://api2.sgx.com/sites/default/files/2018-11/SGX%20Institutional%20and%20Retail%20fund%20flow%20weekly%20tracker%20%28Week%20of%205%20November%202018%29.xlsx",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2018-11-08",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - October 2018",
+    "url": "https://api2.sgx.com/sites/default/files/2018-11/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20October%202018.pdf",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2018-10-08",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - September 2018",
+    "url": "https://api2.sgx.com/sites/default/files/2018-11/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20September%202018.pdf",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2018-09-17",
+    "title": "SGX Institutional and Retail Fund FlowTracker - Week of 17 September 2018",
+    "url": "https://api2.sgx.com/sites/default/files/2018-09/SGX%2BInstitutional%2Band%2BRetail%2Bfund%2Bflow%2Bweekly%2Btracker%2B%28Week%2Bof%2B17%2BSeptember%2B2018%29.xlsx",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2018-08-06",
+    "title": "SGX Institutional Fund Flow Monthly Tracker -  August 2018",
+    "url": "https://api2.sgx.com/sites/default/files/2018-08/SGX%20Institutional%20and%20Retail%20fund%20flow%20weekly%20tracker%20%28Week%20of%206%20August%202018%29.xlsx",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2018-07-01",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - July 2018",
+    "url": "https://api2.sgx.com/sites/default/files/2018-08/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20July%202018.pdf",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2018-06-18",
+    "title": "SGX Institutional and Retail Fund FlowTracker - Week of 18 June 2018",
+    "url": "https://api2.sgx.com/sites/default/files/2018-06/SGX%20Institutional%20and%20Retail%20Fund%20FlowTracker%20-%20Week%20of%2018%20June%202018.xlsx",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2018-06-01",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - June 2018",
+    "url": "https://api2.sgx.com/sites/default/files/2018-08/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20June%202018.pdf",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2018-05-01",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - May 2018",
+    "url": "https://api2.sgx.com/sites/default/files/2018-08/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20May%202018.pdf",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2018-04-01",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - April 2018",
+    "url": "https://api2.sgx.com/sites/default/files/2018-08/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20April%202018.pdf",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2018-03-01",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - March 2018",
+    "url": "https://api2.sgx.com/sites/default/files/2018-08/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20March%202018.pdf",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2018-02-01",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - February 2018",
+    "url": "https://api2.sgx.com/sites/default/files/2018-08/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20February%202018.pdf",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2018-01-01",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - January 2018",
+    "url": "https://api2.sgx.com/sites/default/files/2018-08/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20January%202018.pdf",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2017-12-01",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - December 2017",
+    "url": "https://api2.sgx.com/sites/default/files/2018-08/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20December%202017.pdf",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2017-11-01",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - November 2017",
+    "url": "https://api2.sgx.com/sites/default/files/2018-08/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20November%202017.pdf",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2017-10-01",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - October 2017",
+    "url": "https://api2.sgx.com/sites/default/files/2018-08/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20October%202017.pdf",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2017-09-01",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - September 2017",
+    "url": "https://api2.sgx.com/sites/default/files/2018-08/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20September%202017.pdf",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2017-08-01",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - August 2017",
+    "url": "https://api2.sgx.com/sites/default/files/2018-08/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20%E2%80%93%20August%20%202017.pdf",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2017-07-01",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - July 2017",
+    "url": "https://api2.sgx.com/sites/default/files/2018-08/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20July%202017.pdf",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2017-06-01",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - June 2017",
+    "url": "https://api2.sgx.com/sites/default/files/2018-08/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20June%202017.pdf",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2017-05-01",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - May 2017",
+    "url": "https://api2.sgx.com/sites/default/files/2018-08/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20May%202017.pdf",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2017-04-01",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - April 2017",
+    "url": "https://api2.sgx.com/sites/default/files/2018-08/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20April%202017.pdf",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2017-03-01",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - March 2017",
+    "url": "https://api2.sgx.com/sites/default/files/2018-08/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20March%202017.pdf",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2017-02-01",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - February 2017",
+    "url": "https://api2.sgx.com/sites/default/files/2018-08/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20February%202017.pdf",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2017-01-01",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - January 2017",
+    "url": "https://api2.sgx.com/sites/default/files/2018-08/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20January%202017.pdf",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2016-12-01",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - December 2016",
+    "url": "https://api2.sgx.com/sites/default/files/2018-08/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20December%202016.pdf",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2016-11-01",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - November 2016",
+    "url": "https://api2.sgx.com/sites/default/files/2018-08/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20November%202016.pdf",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2016-10-01",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - October 2016",
+    "url": "https://api2.sgx.com/sites/default/files/2018-08/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20October%202016.pdf",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2016-09-01",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - September 2016",
+    "url": "https://api2.sgx.com/sites/default/files/2018-08/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20September%202016.pdf",
+    "reason": "outside_release_window"
+  },
+  {
+    "publication_date": "2016-08-01",
+    "title": "SGX Institutional Fund Flow Monthly Tracker - August 2016",
+    "url": "https://api2.sgx.com/sites/default/files/2018-08/SGX%20Institutional%20Fund%20Flow%20Monthly%20Tracker%20-%20August%202016.pdf",
+    "reason": "outside_release_window"
+  }
+]
