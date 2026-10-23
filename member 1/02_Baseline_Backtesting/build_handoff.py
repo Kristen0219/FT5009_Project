@@ -31,7 +31,7 @@ def main():
  active=[]
  for inv in ['retail','institutional']:
   x=pd.read_csv(ROOT/f'{inv}_active_large_return_review.csv');x['strategy']=inv;active.extend(x.to_dict('records'))
- status=dict(reporting_allowed=True,reason='Available-data baseline only; two diagnosed unreliable histories quarantined symmetrically. Not an unbiased full-universe backtest',publication_scope='Member 1 restricted-sample baseline with mandatory limitations; remaining return flags must be reviewed before final VaR',quarantined_securities=scenario['quarantined_securities'],retrospective_quality_selection_bias=True,
+ status=dict(reporting_allowed=True,reason='Available-data baseline only; eligibility fixed using pre-2019 returns only. Vendor coverage remains restricted; not an unbiased full-universe backtest',publication_scope='Member 1 restricted-sample baseline with mandatory limitations; remaining return flags must be reviewed before final VaR',quarantined_securities=scenario['quarantined_securities'],eligibility_uses_post2018_returns=False,fixed_starting_universe_bias=True,
   direct_downloaded_sgx_symbols=summary['successful_sgx_symbols'],codes_with_candidate_history_including_two_sourced_code_changes=scenario['codes_with_candidate_history'],remaining_history_gaps=len(gaps),
   large_return_flags=len(outliers),flagged_canonical_securities=len(counts),active_large_return_observations=len(active),
   active_observations=active,data_provider_request_rows=len(request),
@@ -39,6 +39,6 @@ def main():
   numbers_are='restricted-sample strategy outputs; arithmetic verified, vendor histories not independently certified')
  (ROOT/'REPORTING_STATUS.json').write_text(json.dumps(status,indent=2))
  (ROOT/'research_backtest_output/DO_NOT_USE_FOR_REPORT.txt').unlink(missing_ok=True)
- (ROOT/'research_backtest_output/READ_BEFORE_USE.txt').write_text('Restricted available-data baseline. Use only with the exclusions and retrospective quality-selection bias disclosed in docs/member1_data_methods_update.md. Remaining large-return flags require review before final asset-based VaR. No full-universe or causal claim is supported.\n')
+ (ROOT/'research_backtest_output/READ_BEFORE_USE.txt').write_text('Restricted available-data baseline. Use only with the exclusions and fixed-starting-universe and vendor-availability bias disclosed in docs/member1_data_methods_update.md. Remaining large-return flags require review before final asset-based VaR. No full-universe or causal claim is supported.\n')
  print(json.dumps({k:v for k,v in status.items() if k!='active_observations'},indent=2))
 if __name__=='__main__':main()

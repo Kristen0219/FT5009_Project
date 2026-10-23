@@ -1,23 +1,14 @@
-# FT5009 — Member 1 (Kelly)
+# FT5009 Member 1
 
-## Use these folders
+Current baseline: `02_Baseline_Backtesting/`. Original SGX source collection: `01_SGX_Flow_Collection/`. Legacy scaffolds are omitted from this audited package; use the current baseline only.
 
-| Folder | Purpose |
-|---|---|
-| `01_SGX_Flow_Collection/` | Original SGX weekly flow collection, provenance and source reports. |
-| `02_Baseline_Backtesting/` | Current market-data preparation, baseline strategies, outputs and report methods. Start here. |
-| `99_Legacy_Backtest_Scaffold/` | Earlier engine and empty input templates, retained for reference. Do not use for current results. |
-| `99_Legacy_Validation/` | Earlier validation notes, retained for reference. |
-
-From the repository root:
+From the repository root, run:
 
 ```bash
-python -m pip install -r Kelly/02_Baseline_Backtesting/requirements.txt
-python Kelly/02_Baseline_Backtesting/run_offline_pipeline.py
-python -m unittest discover -s Kelly/02_Baseline_Backtesting/tests -v
+python -m pip install -r "member 1/02_Baseline_Backtesting/requirements.txt"
+python "member 1/run_member1.py"
 ```
 
-The SGX collection and current backtesting package intentionally share small input metadata files (`report_checks.csv`, `security_codes_to_map.csv`). These keep the backtesting package self-contained. The legacy scaffold also repeats some code and documentation; its name now makes its status explicit.
+Or open a terminal inside `02_Baseline_Backtesting` and run `python run_offline_pipeline.py`.
 
-The current baseline is a restricted available-data sample. Read `02_Baseline_Backtesting/docs/member1_data_methods_update.md` for exclusions, retrospective quality-selection bias and remaining asset-return review requirements before final VaR. Arithmetic checks do not certify all vendor corporate actions.
-
+This audited version changes eligibility to a fixed starting sample based only on pre-2019 history. It supersedes the earlier full-sample Y92/YF8 exclusion approach; performance numbers consequently change. All three team strategies must use the same updated inputs and treatment. Read `REQUIREMENTS_AUDIT.md` and the revised report draft before integration. Missing vendor histories, fixed-universe bias, source timestamp uncertainty and residual return flags remain disclosed limitations.

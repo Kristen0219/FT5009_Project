@@ -16,4 +16,5 @@ for investor in ['retail','institutional']:
  flags.merge(h[['date','security_id','start_weight']],on=['date','security_id']).to_csv(ROOT/f'{investor}_active_large_return_review.csv',index=False)
 subprocess.run([sys.executable,str(ROOT/'build_handoff.py')],check=True)
 subprocess.run([sys.executable,str(ROOT/'summarize_baselines.py')],check=True)
+subprocess.run([sys.executable,str(ROOT/'prepare_risk_handoff.py')],check=True)
 print('Available-data baseline completed. Read README.md and REPORTING_STATUS.json for mandatory limitations.')

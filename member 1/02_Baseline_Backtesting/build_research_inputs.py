@@ -7,6 +7,8 @@ from collections import Counter,defaultdict
 from bisect import bisect_left
 import json,csv,sys
 from prepare_market_data import read_chart,write
+from eligibility import assess_history
+import pandas as pd
 ROOT=Path(__file__).resolve().parent
 
 def main():
@@ -28,14 +30,13 @@ def main():
   fd=fxdates[i]
   if (date.fromisoformat(d)-date.fromisoformat(fd)).days>5:return None,fd
   return fx[fd],fd
- quarantine={r['security_id']:r for r in csv.DictReader((ROOT/'data_quality_exclusions.csv').open())}
+ quarantine={}
  available={};allprice={};fxuses=[]
  for code,m in mapping.items():
   r=receipts.get(m['price_symbol'],{})
   if r.get('status')!='downloaded':continue
   available[code]=m
   sid=m['canonical_security_id']
-  if sid in quarantine:continue
   if sid in allprice:continue
   rows,events,meta=read_chart(r);data={}
   for x in rows:
@@ -47,6 +48,17 @@ def main():
       volume=x['volume_vendor'],currency='SGD',short_available=1,source_url=r['source_url'])
    if fd:fxuses.append(dict(date=d,security_id=sid,local_currency=x['currency'],fx_label_date=fd,fx_to_sgd=rate))
   allprice[sid]=data
+ # Fixed eligibility uses only aligned observations strictly before 2019.
+ audit=[]
+ for sid,data in allprice.items():
+  series=pd.Series({d:x['total_return_index'] for d,x in data.items()},dtype=float).reindex(calendar)
+  decision=assess_history(series)
+  audit.append(dict(security_id=sid,**decision))
+  if not decision['eligible']:quarantine[sid]=decision
+ write(ROOT/'initial_eligibility_audit.csv',audit)
+ write(ROOT/'data_quality_exclusions.csv',[dict(security_id=sid,reason=q['reason'],scope='fixed sample for 2019-2026',selection_basis='2016-2018 observations only') for sid,q in quarantine.items()],['security_id','reason','scope','selection_basis'])
+ allprice={sid:data for sid,data in allprice.items() if sid not in quarantine}
+ fxuses=[x for x in fxuses if x['security_id'] in allprice]
  prices=[x for data in allprice.values() for x in data.values()];prices.sort(key=lambda x:(x['date'],x['security_id']))
  write(p/'prices.csv',prices,['date','security_id','close','total_return_index','volume','currency','short_available','source_url'])
  write(ROOT/'fx_conversion_audit.csv',fxuses,['date','security_id','local_currency','fx_label_date','fx_to_sgd'])
@@ -65,7 +77,7 @@ def main():
  write(p/'reports.csv',reports)
  write(p/'benchmark.csv',[dict(date=r['date'],total_return_index=r['total_return_index'],source_url=r['source_url']) for r in benchmark],['date','total_return_index','source_url'])
  write(ROOT/'research_security_mapping.csv',[dict(historical_code=c,**m,has_candidate_history=int(c in available)) for c,m in mapping.items()])
- summary=dict(scenario='AVAILABLE_DATA_BASELINE_WITH_DISCLOSED_EXCLUSIONS',quarantined_securities=list(quarantine),data_quality_selection='Retrospective source-quality audit, not a point-in-time universe; selection bias disclosed',source_codes=len(codes),direct_candidate_histories=len(available)-len(aliases),
+ summary=dict(scenario='FIXED_PRE2019_ELIGIBILITY_BASELINE',quarantined_securities=list(quarantine),data_quality_selection='At least 500 valid aligned pre-2019 returns and no absolute pre-2019 daily return above 50%; future returns do not determine membership',eligibility_cutoff_exclusive='2019-01-01',eligible_canonical_histories=len(allprice),codes_eligible_at_start=sum(m['canonical_security_id'] in allprice for m in mapping.values()),later_listing_treatment='not admitted to the fixed starting universe; allocation stays cash',source_codes=len(codes),direct_candidate_histories=len(available)-len(aliases),
    sourced_code_change_relations=len(aliases),codes_with_candidate_history=len(available),codes_without_candidate_history=len(codes)-len(available),
    retained_reports=len(reports),excluded_timing_reports=len(excluded),retained_signal_rows=len(flows),missing_history_signal_rows=len(exclusions),
    candidate_price_rows=len(prices),unfilled_allocation_treatment='cash; no redistribution',missing_report_treatment='hold to next observed usable release',

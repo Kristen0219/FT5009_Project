@@ -102,7 +102,7 @@ def main():
    first_signal_week=r['first_signal_week'],last_signal_week=r['last_signal_week'],identity_status=r['mapping_status'],
    missing_adjusted_prices_on_sti_calendar=sum(not s.get(d,{}).get('adj_close_vendor') for d in calendar)))
  write(ROOT/'history_coverage.csv',coverage)
- summary=dict(candidate_sgx_codes=len(codes),requested_symbols=len(codes)+2,successful_sgx_symbols=sum(r['sgx_code'] in source for r in allmeta),
+ summary=dict(candidate_sgx_codes=len(codes),requested_symbols=len(receipts),successful_sgx_symbols=sum(r['sgx_code'] in source for r in allmeta),
   successful_series=len(series),unavailable_sgx_candidates=len(failures),vendor_price_rows=rows_n,corporate_action_records=len(events),
   price_issue_rows=len(bad),currencies=dict(Counter(r['currency'] for r in allmeta if r['sgx_code'] in source)),
   calendar_sessions=len(calendar),calendar_start=calendar[0] if calendar else None,calendar_end=calendar[-1] if calendar else None,

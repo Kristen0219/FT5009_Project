@@ -1,3 +1,44 @@
 security_id,reason,scope,selection_basis
-SGX_Y92,Unreconciled vendor adjusted-return jumps relative to closing prices and cash distributions,entire_history,retrospective source-quality review; same exclusion for both strategies
-SGX_YF8,Missing in-kind distribution entitlement in vendor total-return series,entire_history,retrospective source-quality review; same exclusion for both strategies
+SGX_Y92,pre2019_abs_daily_return_over_50pct_unreconciled,fixed sample for 2019-2026,2016-2018 observations only
+SGX_CJLU,fewer_than_500_valid_pre2019_returns,fixed sample for 2019-2026,2016-2018 observations only
+SGX_C76,pre2019_abs_daily_return_over_50pct_unreconciled,fixed sample for 2019-2026,2016-2018 observations only
+SGX_BN2,pre2019_abs_daily_return_over_50pct_unreconciled,fixed sample for 2019-2026,2016-2018 observations only
+SGX_1D1,fewer_than_500_valid_pre2019_returns,fixed sample for 2019-2026,2016-2018 observations only
+SGX_A50,pre2019_abs_daily_return_over_50pct_unreconciled,fixed sample for 2019-2026,2016-2018 observations only
+SGX_5GZ,pre2019_abs_daily_return_over_50pct_unreconciled,fixed sample for 2019-2026,2016-2018 observations only
+SGX_CHZ,fewer_than_500_valid_pre2019_returns,fixed sample for 2019-2026,2016-2018 observations only
+SGX_XZL,fewer_than_500_valid_pre2019_returns,fixed sample for 2019-2026,2016-2018 observations only
+SGX_JYEU,fewer_than_500_valid_pre2019_returns,fixed sample for 2019-2026,2016-2018 observations only
+SGX_5AE,pre2019_abs_daily_return_over_50pct_unreconciled,fixed sample for 2019-2026,2016-2018 observations only
+SGX_CRPU,fewer_than_500_valid_pre2019_returns,fixed sample for 2019-2026,2016-2018 observations only
+SGX_NC2,pre2019_abs_daily_return_over_50pct_unreconciled,fixed sample for 2019-2026,2016-2018 observations only
+SGX_1F3,fewer_than_500_valid_pre2019_returns,fixed sample for 2019-2026,2016-2018 observations only
+SGX_MZH,fewer_than_500_valid_pre2019_returns,fixed sample for 2019-2026,2016-2018 observations only
+SGX_TCU,fewer_than_500_valid_pre2019_returns,fixed sample for 2019-2026,2016-2018 observations only
+SGX_579,pre2019_abs_daily_return_over_50pct_unreconciled,fixed sample for 2019-2026,2016-2018 observations only
+SGX_5WH,pre2019_abs_daily_return_over_50pct_unreconciled,fixed sample for 2019-2026,2016-2018 observations only
+SGX_8AZ,fewer_than_500_valid_pre2019_returns,fixed sample for 2019-2026,2016-2018 observations only
+SGX_LS9,pre2019_abs_daily_return_over_50pct_unreconciled,fixed sample for 2019-2026,2016-2018 observations only
+SGX_9CI,fewer_than_500_valid_pre2019_returns,fixed sample for 2019-2026,2016-2018 observations only
+SGX_DHLU,fewer_than_500_valid_pre2019_returns,fixed sample for 2019-2026,2016-2018 observations only
+SGX_DCRU,fewer_than_500_valid_pre2019_returns,fixed sample for 2019-2026,2016-2018 observations only
+SGX_V3M,pre2019_abs_daily_return_over_50pct_unreconciled,fixed sample for 2019-2026,2016-2018 observations only
+SGX_YF8,fewer_than_500_valid_pre2019_returns,fixed sample for 2019-2026,2016-2018 observations only
+SGX_NIO,fewer_than_500_valid_pre2019_returns,fixed sample for 2019-2026,2016-2018 observations only
+SGX_OXMU,fewer_than_500_valid_pre2019_returns,fixed sample for 2019-2026,2016-2018 observations only
+SGX_CMOU,fewer_than_500_valid_pre2019_returns,fixed sample for 2019-2026,2016-2018 observations only
+SGX_E27,pre2019_abs_daily_return_over_50pct_unreconciled,fixed sample for 2019-2026,2016-2018 observations only
+SGX_EMI,fewer_than_500_valid_pre2019_returns,fixed sample for 2019-2026,2016-2018 observations only
+SGX_1J5,fewer_than_500_valid_pre2019_returns,fixed sample for 2019-2026,2016-2018 observations only
+SGX_BQF,fewer_than_500_valid_pre2019_returns,fixed sample for 2019-2026,2016-2018 observations only
+SGX_ITS,fewer_than_500_valid_pre2019_returns,fixed sample for 2019-2026,2016-2018 observations only
+SGX_NTDU,fewer_than_500_valid_pre2019_returns,fixed sample for 2019-2026,2016-2018 observations only
+SGX_OYY,fewer_than_500_valid_pre2019_returns,fixed sample for 2019-2026,2016-2018 observations only
+SGX_8C8U,fewer_than_500_valid_pre2019_returns,fixed sample for 2019-2026,2016-2018 observations only
+SGX_8YZ,fewer_than_500_valid_pre2019_returns,fixed sample for 2019-2026,2016-2018 observations only
+SGX_ULG,fewer_than_500_valid_pre2019_returns,fixed sample for 2019-2026,2016-2018 observations only
+SGX_UIBU,fewer_than_500_valid_pre2019_returns,fixed sample for 2019-2026,2016-2018 observations only
+SGX_HQU,fewer_than_500_valid_pre2019_returns,fixed sample for 2019-2026,2016-2018 observations only
+SGX_1R6,fewer_than_500_valid_pre2019_returns,fixed sample for 2019-2026,2016-2018 observations only
+SGX_Y3D,pre2019_abs_daily_return_over_50pct_unreconciled,fixed sample for 2019-2026,2016-2018 observations only
+SGX_PCT,fewer_than_500_valid_pre2019_returns,fixed sample for 2019-2026,2016-2018 observations only

@@ -1,6 +1,6 @@
 {
   "candidate_sgx_codes": 236,
-  "requested_symbols": 238,
+  "requested_symbols": 240,
   "successful_sgx_symbols": 168,
   "successful_series": 172,
   "unavailable_sgx_candidates": 68,

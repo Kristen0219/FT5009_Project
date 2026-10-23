@@ -1,0 +1,7 @@
+{
+  "url": "https://links.sgx.com/1.0.0/corporate-announcements/26A1TUAGQ49R6T0E/785808_NCL_ApprovalofTRPCircularALA_Final.pdf",
+  "sha256": "4ed10e2b9e2fb13a988cb3d718e7659e0bc2fac5810448010b54057790a7b4b5",
+  "bytes": 105595,
+  "source_statement": "Announcement dated 2 February 2024 states shares voluntarily suspended since 28 April 2020",
+  "treatment": "2024-02-01 vendor 100fold jump is unverified, retained in original data but quarantined from VaR input; no fabricated adjustment"
+}

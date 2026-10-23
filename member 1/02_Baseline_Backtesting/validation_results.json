@@ -7,6 +7,6 @@
   "strictly_lagged_fx": true,
   "backtest_paths_reconciled": 6,
   "source_name_conflict_rows": 14,
-  "large_return_review_rows": 264,
+  "large_return_review_rows": 29,
   "status": "PASSED NUMERICAL CHECKS; incomplete historical universe, identity/source issues and trading assumptions unresolved"
 }

@@ -1,46 +1,34 @@
-# Member 1 — 可用数据样本的基础回测
+# Current Member 1 baseline with fixed pre-2019 eligibility
 
-本版本按作业允许的 unavailable histories 规则完成两个基础策略。缺少全部证券历史不再作为阻止完成的条件。结果仅代表本版本明确限定的样本，须披露可得性偏差与事后数据质量筛选偏差，不能称为完整市场、无偏或可直接实盘的结果。
+Read ../REQUIREMENTS_AUDIT.md before integration. This version supersedes the full-period Y92/YF8 exclusion scenario. It uses no post-2018 returns to select the starting price-history sample.
 
-## 数据与处理
+## Run offline
 
-- SGX 原始周报 399 份、历史代码 236 个；排除 3 份发布时间矛盾的报告，保留 396 份和 15,840 条信号。
-- 170 个原始代码有候选行情（含两组官方代码关系）；66 个缺历史，其信号额度留现金，不向其他股票重分配。
-- Y92 的复权跳变、YF8 的实物分派无法可靠还原，因此两个策略均排除两者的全部历史。剩余 168 个原始代码可查询行情，对应 166 条不同证券历史；特定日期实际覆盖仍可能更少。
-- 两条排除是事后源数据质量审查，不是当时已知的选股规则。必须披露这一样本选择偏差；严格时点一致的完整结果仍需还原公司行动。其他大幅收益仅标记，不按阈值自动删除。
-- 未上市时段不回填；新仓位缺报价则不交易，既有持仓缺收益则停止。没有把缺失回报填零或虚构退市结算。
-- 5 个未找到周报的自然周沿用持仓，直至下一份观察到的报告。零成交量导致无法调仓时冻结持仓并占用同方向额度。
-
-## 策略与成本
-
-Smart Retail Flow FT5009 / Smart Insti Flow FT5009 各初始 SGD 1m，多空分别目标 49%，单证券目标上限 10%；报告发布后第一个交易日收盘调仓，原持仓获得当日收益。净收益采用单边 20 bps 交易费、年化 3% 借券费；倍成本采用 40 bps。所有证券可借券是显式假设。现金利息为零，使用可分割的总回报单位。
-
-USD 行情使用严格早于股票日期、最多 5 日旧的 FX 日标签，是日频估值近似。普通代码映射和供应商公司行动没有逐一独立认证；交易股数与成交参与率仅为供应商拆股口径下的代理。
-
-基准是 State Street ES3 官方 NAV 加分红重建的 ETF NAV 总回报代理，不是 STI 官方总回报指数，也不是 ETF 可成交价格。2016–2026/9 共 2,698 个估值日；2026 年至 9 月收益 25.8364%，与发行商公布的 25.84% 四舍五入一致。
-
-## 运行
+From this folder:
 
 ```bash
-python -m pip install -r Kelly/02_Baseline_Backtesting/requirements.txt
-python Kelly/02_Baseline_Backtesting/run_offline_pipeline.py
-python -m unittest discover -s Kelly/02_Baseline_Backtesting/tests -v
+python -m pip install -r requirements.txt
+python run_offline_pipeline.py
+python -m unittest discover -s tests -v
+python audit_requirements.py
 ```
 
-在 02_Baseline_Backtesting 文件夹内运行时去掉完整文件夹路径前缀。程序自动从 archives/ 校验并还原原始数据，然后离线重建输入和结果。现有还原文件不会被 ZIP 覆盖；若要验证全新还原，请解压整个交付包到新目录运行。不要漏传三个 archive ZIP。
+For full source extraction and all checks from the repository root, run `python "member 1/run_member1.py"`. The parent launcher uses relative paths; it also works if the parent folder is renamed. Its command-line path must be quoted when it contains spaces.
 
-## 交付位置
+## Data rules and sample
 
-- `baseline_handoff_summary.csv`：六条路径的简单核对表，收益列为小数。
-- `research_inputs/`：两个策略共用的标准化输入；文件夹保留历史名称，但内容采用本版本规则。
-- `research_backtest_output/`：日 NAV、收益、持仓、交易、排除日志、资产收益矩阵。
-- `data_quality_exclusions.csv`：两条数据质量排除，机器可读。
-- `remaining_history_gaps.csv`：66 个缺历史代码；不是必须全部补齐的清单。
-- `REPORTING_STATUS.json`、`validation_results.json`：样本用途和数值核验结果。
-- `docs/member1_data_methods_update.md`：可供报告改写的英文方法、假设、偏差和交接说明。
+399 original weekly SGX reports produce 15,960 rows. Excluding three timing-inconsistent reports leaves 396 reports and 15,840 signals. Five unlocated observation weeks do not create zero flows or trades.
 
-Member 2 可基于该明确限定的样本开展增强和表现分析。Member 3 应保留缺失值，并复核 large_return_review.csv 中剩余资产历史的公司行动后再提交最终 VaR；未在持仓日出现异常不代表过去 500 日资产收益没有问题。代码和数据补交不会自动完成其他成员的部分。
+There are 236 source codes and 170 codes with candidate history, corresponding to 168 canonical histories. Among those histories, 30 have fewer than 500 valid pre-2019 returns and 13 have an absolute pre-2019 return above 50%. Both strategies use the same remaining 125 canonical histories (127 source codes), fixed for the whole trading period. No later IPO or other ineligible history is admitted. This conservative screen can exclude genuine volatile securities; it is not proof of a source error. Missing slots remain cash and are never redistributed.
 
-原始数据、下载状态、URL 和校验和均保留。下载失败只说明候选查询不可用，不证明证券已退市。`data_provider_request.csv` 是后续改善数据的可选清单。详细来源与 AI assistance 说明见英文方法章节、逐文件 receipts 和 verified_code_lineage.csv。
+All strategies start with SGD 1m. Each side targets 49% of pre-cost NAV, with a 10% name cap. Reports trade at the first session close after publication; holdings earn that day's returns before trades. Frozen zero-volume holdings reserve their side's budget. Missing held-asset returns stop the run. Gross, net (20 bps plus 3% annual borrow) and doubled-transaction-cost (40 bps plus 3% borrow) paths are supplied. All borrowable is an explicit assumption; cash interest is zero. No forced final liquidation.
 
-本文件夹是当前回测入口。仓库根目录运行上方命令；01_SGX_Flow_Collection 保存 SGX 收集工作，99_Legacy_Backtest_Scaffold 和 99_Legacy_Validation 仅为旧版参考。
+## Results and risk handoff
+
+- baseline_handoff_summary.csv is the revised baseline result, not the earlier one. Previous summary/scenario files remain in docs/previous_* for reference only.
+- research_backtest_output/ contains daily NAV, signed holdings, trades, exclusions and asset returns after restoration/run.
+- asset_returns_aligned.csv preserves vendor-based returns. For VaR, use the separate asset_returns_for_var.csv and risk_handoff_coverage.csv: 29 unverified extreme observations are marked missing, not clipped or filled zero. This creates 82 retail and 46 institutional forecast gaps under the strict 500-return rule. Do not drop historical dates to obtain 500 surviving values. Verified genuine observations can later be reinstated with documented evidence.
+- The official ES3 NAV/distribution total-return proxy is not the official STI total-return index or an executable ETF price. Pre-2019 data are retained for risk estimation.
+- Remaining limitations include historical identity candidates, current archive/vendor data vintages, corporate actions, lagged FX approximations, unverified split/volume basis, fixed-universe and survivorship bias, and trading assumptions. No claim of unbiased whole-market performance or complete source certification is made.
+
+The three archives are checksum-verified and restored automatically. Do not upload restored large CSVs (especially prices_vendor.csv); keep them in the inner archives. Sources, download checksums, fixed eligibility decisions and risk quarantine are machine-readable. Detailed methods and report text are in ../FT5009_Member1_Report_Audited.docx and docs/member1_data_methods_update.md.

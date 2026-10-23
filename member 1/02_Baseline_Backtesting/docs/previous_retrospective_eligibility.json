@@ -1,0 +1,26 @@
+{
+  "scenario": "AVAILABLE_DATA_BASELINE_WITH_DISCLOSED_EXCLUSIONS",
+  "quarantined_securities": [
+    "SGX_Y92",
+    "SGX_YF8"
+  ],
+  "data_quality_selection": "Retrospective source-quality audit, not a point-in-time universe; selection bias disclosed",
+  "source_codes": 236,
+  "direct_candidate_histories": 168,
+  "sourced_code_change_relations": 2,
+  "codes_with_candidate_history": 170,
+  "codes_without_candidate_history": 66,
+  "retained_reports": 396,
+  "excluded_timing_reports": 3,
+  "retained_signal_rows": 15840,
+  "missing_history_signal_rows": 821,
+  "candidate_price_rows": 406569,
+  "unfilled_allocation_treatment": "cash; no redistribution",
+  "missing_report_treatment": "hold to next observed usable release",
+  "fx": "USD daily quote strictly prior label, max age 5 calendar days; SGD unchanged; timing approximation disclosed",
+  "benchmark": "ES3 official NAV total return reconstructed with issuer distributions",
+  "short_availability": "ALL BORROWABLE ASSUMPTION, not historical evidence",
+  "costs": "20 bps one-way; 3% annual borrow; 40 bps doubled-cost scenario",
+  "liquidity": "vendor split-adjusted price/volume pair; split/volume basis not independently verified",
+  "unresolved": "missing delisted histories, current-vendor identity mapping, rights/merger adjustments, borrow availability, raw publication metadata"
+}

@@ -1,0 +1,34 @@
+{
+  "source_codes": 236,
+  "eligible_canonical_histories": 125,
+  "eligible_histories_with_500_pre2019_returns": 125,
+  "price_rows": 336916,
+  "retained_reports": 396,
+  "signal_rows": 15840,
+  "remaining_abs_daily_return_over_50pct_flags": 29,
+  "retail": {
+    "trade_rows": 9787,
+    "daily_rows": 1945,
+    "first_trade_date": "2019-01-08",
+    "last_trade_date": "2026-09-29",
+    "all_trade_dates_after_release": true,
+    "max_position_rollforward_gap_sgd": 2.9103830456733704e-11,
+    "forecast_origin_dates_with_insufficient_500_complete_returns": 0,
+    "forecast_origin_dates_with_past_abs_return_flags": 82
+  },
+  "institutional": {
+    "trade_rows": 9859,
+    "daily_rows": 1945,
+    "first_trade_date": "2019-01-08",
+    "last_trade_date": "2026-09-29",
+    "all_trade_dates_after_release": true,
+    "max_position_rollforward_gap_sgd": 2.9103830456733704e-11,
+    "forecast_origin_dates_with_insufficient_500_complete_returns": 0,
+    "forecast_origin_dates_with_past_abs_return_flags": 46
+  },
+  "risk_return_quarantine_count": 29,
+  "risk_forecast_history_gaps": {
+    "institutional": 46,
+    "retail": 82
+  }
+}

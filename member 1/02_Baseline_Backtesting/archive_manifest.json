@@ -7,14 +7,14 @@
   },
   {
     "file": "archives/large_datasets.zip",
-    "sha256": "78aea9df57119938eaf8bb83c2642a2bb4eadeceef0989f00880a7b40e8450db",
+    "sha256": "8e1d0a37d9f5b0137e7a18c5c34875c38bba76e2d99ed2d8cfdcbd0f8fc009e5",
     "file_count": 7,
-    "bytes": 21191204
+    "bytes": 18032025
   },
   {
     "file": "archives/diagnostic_outputs.zip",
-    "sha256": "7bf47f989a730e60c7664c5bf0736fcc7bc623f6809d24a3789aa2a47f7a3066",
-    "file_count": 29,
-    "bytes": 10280977
+    "sha256": "6a183b9f4039fe9d9c17a9a5ac52473c73a932280b1995b183b842fe7553f38b",
+    "file_count": 31,
+    "bytes": 11444222
   }
 ]
