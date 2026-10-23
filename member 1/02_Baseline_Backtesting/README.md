@@ -22,12 +22,12 @@ USD 行情使用严格早于股票日期、最多 5 日旧的 FX 日标签，是
 ## 运行
 
 ```bash
-python -m pip install -r Market_Data/requirements.txt
-python Market_Data/run_offline_pipeline.py
-python -m unittest discover -s Market_Data/tests -v
+python -m pip install -r Kelly/02_Baseline_Backtesting/requirements.txt
+python Kelly/02_Baseline_Backtesting/run_offline_pipeline.py
+python -m unittest discover -s Kelly/02_Baseline_Backtesting/tests -v
 ```
 
-在 Market_Data 文件夹内运行时去掉路径前缀。程序自动从 archives/ 校验并还原原始数据，然后离线重建输入和结果。现有还原文件不会被 ZIP 覆盖；若要验证全新还原，请解压整个交付包到新目录运行。不要漏传三个 archive ZIP。
+在 02_Baseline_Backtesting 文件夹内运行时去掉完整文件夹路径前缀。程序自动从 archives/ 校验并还原原始数据，然后离线重建输入和结果。现有还原文件不会被 ZIP 覆盖；若要验证全新还原，请解压整个交付包到新目录运行。不要漏传三个 archive ZIP。
 
 ## 交付位置
 
@@ -43,4 +43,4 @@ Member 2 可基于该明确限定的样本开展增强和表现分析。Member 3
 
 原始数据、下载状态、URL 和校验和均保留。下载失败只说明候选查询不可用，不证明证券已退市。`data_provider_request.csv` 是后续改善数据的可选清单。详细来源与 AI assistance 说明见英文方法章节、逐文件 receipts 和 verified_code_lineage.csv。
 
-本文件夹放入仓库 `Kelly/`，与原有 data/、member1/ 并列；本版本使用的 backtest.py 已包含冻结仓位规则。旧版无该规则的 scaffold 不应替代本文件夹的复现入口。
+本文件夹是当前回测入口。仓库根目录运行上方命令；01_SGX_Flow_Collection 保存 SGX 收集工作，99_Legacy_Backtest_Scaffold 和 99_Legacy_Validation 仅为旧版参考。

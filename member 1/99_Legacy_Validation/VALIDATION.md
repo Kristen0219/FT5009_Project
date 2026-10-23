@@ -1,3 +1,5 @@
+> LEGACY REFERENCE: superseded by Kelly/02_Baseline_Backtesting/. Do not use these instructions for the current baseline.
+
 # Validation record — 21 October 2026
 
 Executed locally before upload:

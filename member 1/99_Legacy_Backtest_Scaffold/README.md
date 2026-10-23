@@ -1,3 +1,5 @@
+> LEGACY REFERENCE: superseded by Kelly/02_Baseline_Backtesting/. Do not use these instructions for the current baseline.
+
 # FT5009 — Member 1: Data & Baseline Backtesting
 
 ## 状态（请先读）
@@ -70,7 +72,7 @@ Member 2：增强策略调用同一个 simulate 或复用同一日收益/成本�
 
 ## 原始数据与来源记录
 
-SGX 资金流收集成果见 ../data/sgx/README.md；该分类可见报告及跨分类补充已保存，另列 5 个未发现周报的自然周和 3 条日期异常。环境中一次 Yahoo 日行情请求收到 HTTP 429；没有将失败请求当作已收集数据。付费数据库的学校访问权限需由组员在可用账号下导出。本包没有内置第三方未经验证的数据替代品。
+SGX 资金流收集成果见 ../Kelly/01_SGX_Flow_Collection/README.md；该分类可见报告及跨分类补充已保存，另列 5 个未发现周报的自然周和 3 条日期异常。环境中一次 Yahoo 日行情请求收到 HTTP 429；没有将失败请求当作已收集数据。付费数据库的学校访问权限需由组员在可用账号下导出。本包没有内置第三方未经验证的数据替代品。
 
 务必保留：原始文件、下载/导出日期、字段描述、覆盖区间、缺失报告列表、所有排除与处理记录。`audit.py` 是辅助检查，不证明档案完整，也不自动核验原文转录。
 

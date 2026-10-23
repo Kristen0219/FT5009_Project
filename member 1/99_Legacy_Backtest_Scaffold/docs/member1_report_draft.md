@@ -1,3 +1,5 @@
+> LEGACY REFERENCE: superseded by Kelly/02_Baseline_Backtesting/. Do not use these instructions for the current baseline.
+
 # Member 1 — Report Sections (method draft; empirical coverage pending)
 
 **Do not submit unchanged. Populate verified data coverage/exclusions and replace assumptions if the group chooses different fixed parameters. No empirical result is asserted here.**
