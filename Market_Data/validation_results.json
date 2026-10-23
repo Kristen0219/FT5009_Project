@@ -1,0 +1,12 @@
+{
+  "verified_raw_json_checksums": 172,
+  "official_nav_calendar_matches_sti": true,
+  "official_benchmark_ytd_difference_bps": -0.3590314871920741,
+  "positive_sgd_prices": true,
+  "unique_price_keys": true,
+  "strictly_lagged_fx": true,
+  "backtest_paths_reconciled": 6,
+  "source_name_conflict_rows": 14,
+  "large_return_review_rows": 264,
+  "status": "PASSED NUMERICAL CHECKS; incomplete historical universe, identity/source issues and trading assumptions unresolved"
+}

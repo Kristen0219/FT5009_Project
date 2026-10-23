@@ -1,0 +1,14 @@
+{
+  "source_url": "https://www.ssga.com/library-content/products/fund-data/etfs/apac/navhist-sg-en-es3.xlsx",
+  "sha256": "a2ba794d9d4d70a5fc5eebb330ca1c9fa74c68869dff4edf507a22a15aecd776",
+  "distribution_source_url": "https://www.ssga.com/sg/en/institutional/etfs/state-street-spdr-straits-times-index-etf-es3",
+  "distribution_rows": 22,
+  "observations": 2698,
+  "first_date": "2016-01-04",
+  "last_date": "2026-09-30",
+  "weekend_dates": [],
+  "methodology": "(NAV_t + distribution_on_ex_date)/NAV_previous - 1; reinvest at ex-date closing NAV; no splits in 2016-2026 according to vendor events; issuer published YTD comparison recorded below",
+  "reconstructed_2026_ytd": 0.2583640968512808,
+  "issuer_published_2026_ytd": 0.2584,
+  "ytd_difference_bps": -0.3590314871920741
+}

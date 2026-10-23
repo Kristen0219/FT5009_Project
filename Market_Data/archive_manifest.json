@@ -1,0 +1,20 @@
+[
+  {
+    "file": "archives/original_sources.zip",
+    "sha256": "78cbbad0e4a657c95b99f9d8761a79ed148d80a033f11ec4eb224549af6d2fef",
+    "file_count": 416,
+    "bytes": 7473653
+  },
+  {
+    "file": "archives/large_datasets.zip",
+    "sha256": "78aea9df57119938eaf8bb83c2642a2bb4eadeceef0989f00880a7b40e8450db",
+    "file_count": 7,
+    "bytes": 21191204
+  },
+  {
+    "file": "archives/diagnostic_outputs.zip",
+    "sha256": "7bf47f989a730e60c7664c5bf0736fcc7bc623f6809d24a3789aa2a47f7a3066",
+    "file_count": 29,
+    "bytes": 10280977
+  }
+]

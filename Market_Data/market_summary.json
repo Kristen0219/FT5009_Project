@@ -1,0 +1,19 @@
+{
+  "candidate_sgx_codes": 236,
+  "requested_symbols": 238,
+  "successful_sgx_symbols": 168,
+  "successful_series": 172,
+  "unavailable_sgx_candidates": 68,
+  "vendor_price_rows": 422140,
+  "corporate_action_records": 2772,
+  "price_issue_rows": 443,
+  "currencies": {
+    "SGD": 155,
+    "USD": 13
+  },
+  "calendar_sessions": 2698,
+  "calendar_start": "2016-01-04",
+  "calendar_end": "2026-09-30",
+  "mapped_identities_independently_verified": 0,
+  "initial_500_return_history_count": 138
+}

@@ -1,0 +1,23 @@
+{
+  "reporting_allowed": true,
+  "reason": "Available-data baseline only; two diagnosed unreliable histories quarantined symmetrically. Not an unbiased full-universe backtest",
+  "publication_scope": "Member 1 restricted-sample baseline with mandatory limitations; remaining return flags must be reviewed before final VaR",
+  "quarantined_securities": [
+    "SGX_Y92",
+    "SGX_YF8"
+  ],
+  "retrospective_quality_selection_bias": true,
+  "direct_downloaded_sgx_symbols": 168,
+  "codes_with_candidate_history_including_two_sourced_code_changes": 170,
+  "remaining_history_gaps": 66,
+  "large_return_flags": 264,
+  "flagged_canonical_securities": 29,
+  "active_large_return_observations": 0,
+  "active_observations": [],
+  "data_provider_request_rows": 95,
+  "raw_data_preserved": true,
+  "automatic_return_clipping": false,
+  "automatic_missing_return_zero_fill": false,
+  "numbers_are": "restricted-sample strategy outputs; arithmetic verified, vendor histories not independently certified",
+  "no_remaining_active_abs_daily_return_over_50pct": true
+}

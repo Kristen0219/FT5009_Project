@@ -1,0 +1,9 @@
+__pycache__/
+raw/
+receipts/
+repair_queries/
+research_inputs/
+research_backtest_output/
+prices_vendor.csv
+asset_returns_local_currency.csv
+flows_extracted.csv

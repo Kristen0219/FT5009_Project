@@ -1,0 +1,3 @@
+security_id,reason,scope,selection_basis
+SGX_Y92,Unreconciled vendor adjusted-return jumps relative to closing prices and cash distributions,entire_history,retrospective source-quality review; same exclusion for both strategies
+SGX_YF8,Missing in-kind distribution entitlement in vendor total-return series,entire_history,retrospective source-quality review; same exclusion for both strategies

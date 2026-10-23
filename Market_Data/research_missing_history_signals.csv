@@ -1,0 +1,822 @@
+report_id,publication_date,sgx_code,security_name,investor,side,rank,reason
+SGX_fb154fa85bfe,2019-01-07,C61U,CapitaLand Commercial Trust,institutional,buy,10,no_history_for_candidate_symbol
+SGX_fb154fa85bfe,2019-01-07,K11,Keppel T&T,institutional,sell,3,no_history_for_candidate_symbol
+SGX_fb154fa85bfe,2019-01-07,AXB,Yongnam Holdings,institutional,sell,4,no_history_for_candidate_symbol
+SGX_fb154fa85bfe,2019-01-07,C31,CapitaLand,retail,buy,6,no_history_for_candidate_symbol
+SGX_fb154fa85bfe,2019-01-07,K11,Keppel T&T,retail,buy,10,no_history_for_candidate_symbol
+SGX_fb154fa85bfe,2019-01-07,B2F,M1,retail,sell,2,no_history_for_candidate_symbol
+SGX_fb154fa85bfe,2019-01-07,M04,Mandarin Oriental,retail,sell,3,no_history_for_candidate_symbol
+SGX_fb154fa85bfe,2019-01-07,U04,United Engineers,retail,sell,7,no_history_for_candidate_symbol
+SGX_fb154fa85bfe,2019-01-07,SK6U,SPH REIT,retail,sell,9,no_history_for_candidate_symbol
+SGX_7df0bffa1c80,2019-01-14,5UZ,DeClout,institutional,buy,9,no_history_for_candidate_symbol
+SGX_7df0bffa1c80,2019-01-14,5CP,Silverlake Axis,institutional,sell,4,no_history_for_candidate_symbol
+SGX_7df0bffa1c80,2019-01-14,H17,Hi-P International,institutional,sell,5,no_history_for_candidate_symbol
+SGX_7df0bffa1c80,2019-01-14,H17,Hi-P International,retail,buy,3,no_history_for_candidate_symbol
+SGX_7df0bffa1c80,2019-01-14,5CP,Silverlake Axis,retail,buy,4,no_history_for_candidate_symbol
+SGX_7df0bffa1c80,2019-01-14,CGN,Best World International,retail,buy,5,no_history_for_candidate_symbol
+SGX_7df0bffa1c80,2019-01-14,K11,Keppel T&T,retail,buy,9,no_history_for_candidate_symbol
+SGX_7df0bffa1c80,2019-01-14,C31,CapitaLand,retail,sell,10,no_history_for_candidate_symbol
+SGX_0f7e20c0f98c,2019-01-21,B2F,M1,institutional,buy,6,no_history_for_candidate_symbol
+SGX_0f7e20c0f98c,2019-01-21,C31,CapitaLand,institutional,sell,1,no_history_for_candidate_symbol
+SGX_0f7e20c0f98c,2019-01-21,CGN,Best World International,institutional,sell,10,no_history_for_candidate_symbol
+SGX_0f7e20c0f98c,2019-01-21,C31,CapitaLand,retail,buy,1,no_history_for_candidate_symbol
+SGX_0f7e20c0f98c,2019-01-21,CGN,Best World International,retail,buy,3,no_history_for_candidate_symbol
+SGX_0f7e20c0f98c,2019-01-21,RF1U,RHT Health Trust,retail,buy,7,no_history_for_candidate_symbol
+SGX_0f7e20c0f98c,2019-01-21,B2F,M1,retail,sell,10,no_history_for_candidate_symbol
+SGX_ffea2a465ca4,2019-01-28,VL6,Koufu Group,institutional,buy,5,no_history_for_candidate_symbol
+SGX_ffea2a465ca4,2019-01-28,5UZ,DeClout,institutional,buy,8,no_history_for_candidate_symbol
+SGX_ffea2a465ca4,2019-01-28,B2F,M1,institutional,buy,9,no_history_for_candidate_symbol
+SGX_ffea2a465ca4,2019-01-28,RF1U,RHT Health Trust,institutional,sell,7,no_history_for_candidate_symbol
+SGX_ffea2a465ca4,2019-01-28,C31,CapitaLand,institutional,sell,10,no_history_for_candidate_symbol
+SGX_ffea2a465ca4,2019-01-28,RF1U,RHT Health Trust,retail,buy,3,no_history_for_candidate_symbol
+SGX_ffea2a465ca4,2019-01-28,VL6,Koufu Group,retail,sell,5,no_history_for_candidate_symbol
+SGX_2624cc2027f1,2019-02-04,RW0U,Mapletree North Asia Commercial Trust,institutional,buy,3,no_history_for_candidate_symbol
+SGX_2624cc2027f1,2019-02-04,ND8U,Frasers Commercial Trust,institutional,buy,4,no_history_for_candidate_symbol
+SGX_2624cc2027f1,2019-02-04,A68U,Ascott Residence Trust,institutional,buy,9,no_history_for_candidate_symbol
+SGX_2624cc2027f1,2019-02-04,CGN,Best World International,retail,buy,8,no_history_for_candidate_symbol
+SGX_2624cc2027f1,2019-02-04,RW0U,Mapletree North Asia Commercial Trust,retail,sell,3,no_history_for_candidate_symbol
+SGX_2624cc2027f1,2019-02-04,C31,CapitaLand,retail,sell,6,no_history_for_candidate_symbol
+SGX_2624cc2027f1,2019-02-04,ND8U,Frasers Commercial Trust,retail,sell,9,no_history_for_candidate_symbol
+SGX_2624cc2027f1,2019-02-04,A68U,Ascott Residence Trust,retail,sell,10,no_history_for_candidate_symbol
+SGX_1247c18de2ea,2019-02-11,C61U,CapitaLand Commercial Trust,institutional,buy,2,no_history_for_candidate_symbol
+SGX_1247c18de2ea,2019-02-11,C31,CapitaLand,institutional,sell,6,no_history_for_candidate_symbol
+SGX_1247c18de2ea,2019-02-11,ND8U,Frasers Commercial Trust,institutional,sell,8,no_history_for_candidate_symbol
+SGX_1247c18de2ea,2019-02-11,C31,CapitaLand,retail,buy,7,no_history_for_candidate_symbol
+SGX_1247c18de2ea,2019-02-11,5ME,Ezion Holdings,retail,buy,10,no_history_for_candidate_symbol
+SGX_1247c18de2ea,2019-02-11,CGN,Best World International,retail,sell,2,no_history_for_candidate_symbol
+SGX_1247c18de2ea,2019-02-11,C61U,CapitaLand Commercial Trust,retail,sell,6,no_history_for_candidate_symbol
+SGX_2738c276a67a,2019-02-18,C31,CapitaLand,institutional,buy,6,no_history_for_candidate_symbol
+SGX_2738c276a67a,2019-02-18,CGN,Best World International,institutional,sell,3,no_history_for_candidate_symbol
+SGX_0fb61928de95,2019-02-25,H17,Hi-P International,institutional,buy,5,no_history_for_candidate_symbol
+SGX_0fb61928de95,2019-02-25,C61U,CapitaLand Commercial Trust,institutional,buy,8,no_history_for_candidate_symbol
+SGX_0fb61928de95,2019-02-25,T39,SPH,institutional,sell,8,no_history_for_candidate_symbol
+SGX_0fb61928de95,2019-02-25,RF1U,RHT Health Trust,institutional,sell,9,no_history_for_candidate_symbol
+SGX_0fb61928de95,2019-02-25,RF1U,RHT Health Trust,retail,buy,6,no_history_for_candidate_symbol
+SGX_0fb61928de95,2019-02-25,U04,United Engineers,retail,buy,8,no_history_for_candidate_symbol
+SGX_0fb61928de95,2019-02-25,CGN,Best World International,retail,buy,9,no_history_for_candidate_symbol
+SGX_0fb61928de95,2019-02-25,H17,Hi-P International,retail,sell,6,no_history_for_candidate_symbol
+SGX_0fb61928de95,2019-02-25,C31,CapitaLand,retail,sell,7,no_history_for_candidate_symbol
+SGX_1df3ac56cd48,2019-03-04,C61U,CapitaLand Commercial Trust,institutional,buy,3,no_history_for_candidate_symbol
+SGX_1df3ac56cd48,2019-03-04,CGN,Best World International,institutional,sell,4,no_history_for_candidate_symbol
+SGX_1df3ac56cd48,2019-03-04,CGN,Best World International,retail,buy,4,no_history_for_candidate_symbol
+SGX_1df3ac56cd48,2019-03-04,H17,Hi-P International,retail,sell,6,no_history_for_candidate_symbol
+SGX_1df3ac56cd48,2019-03-04,C61U,CapitaLand Commercial Trust,retail,sell,8,no_history_for_candidate_symbol
+SGX_e55183fe645e,2019-03-11,C31,CapitaLand,institutional,buy,4,no_history_for_candidate_symbol
+SGX_e55183fe645e,2019-03-11,H17,Hi-P International,institutional,buy,6,no_history_for_candidate_symbol
+SGX_e55183fe645e,2019-03-11,CH8,China Sunsine Chemical,institutional,sell,9,no_history_for_candidate_symbol
+SGX_e55183fe645e,2019-03-11,CH8,China Sunsine Chemical,retail,buy,10,no_history_for_candidate_symbol
+SGX_e55183fe645e,2019-03-11,C31,CapitaLand,retail,sell,4,no_history_for_candidate_symbol
+SGX_e55183fe645e,2019-03-11,H17,Hi-P International,retail,sell,6,no_history_for_candidate_symbol
+SGX_e55183fe645e,2019-03-11,RW0U,Mapletree North Asia Commercial Trust,retail,sell,7,no_history_for_candidate_symbol
+SGX_0e5d868476d5,2019-03-18,O32,Olam International,institutional,buy,4,no_history_for_candidate_symbol
+SGX_0e5d868476d5,2019-03-18,RW0U,Mapletree North Asia Commercial Trust,institutional,buy,6,no_history_for_candidate_symbol
+SGX_0e5d868476d5,2019-03-18,C61U,CapitaLand Commercial Trust,institutional,buy,9,no_history_for_candidate_symbol
+SGX_0e5d868476d5,2019-03-18,C61U,CapitaLand Commercial Trust,retail,sell,4,no_history_for_candidate_symbol
+SGX_7c99498c85b9,2019-03-25,C61U,CapitaLand Commercial Trust,institutional,sell,3,no_history_for_candidate_symbol
+SGX_7c99498c85b9,2019-03-25,T39,SPH,institutional,sell,5,no_history_for_candidate_symbol
+SGX_7c99498c85b9,2019-03-25,T39,SPH,retail,buy,6,no_history_for_candidate_symbol
+SGX_7c99498c85b9,2019-03-25,ND8U,Frasers Commercial Trust,retail,buy,10,no_history_for_candidate_symbol
+SGX_d0cf3684e5f4,2019-04-01,C31,CapitaLand,institutional,buy,1,no_history_for_candidate_symbol
+SGX_d0cf3684e5f4,2019-04-01,CGN,Best World International,institutional,sell,4,no_history_for_candidate_symbol
+SGX_d0cf3684e5f4,2019-04-01,CGN,Best World International,retail,buy,5,no_history_for_candidate_symbol
+SGX_d0cf3684e5f4,2019-04-01,C31,CapitaLand,retail,sell,1,no_history_for_candidate_symbol
+SGX_d0cf3684e5f4,2019-04-01,RW0U,Mapletree North Asia Commercial Trust,retail,sell,9,no_history_for_candidate_symbol
+SGX_0d85c5e941b6,2019-04-08,C31,CapitaLand,institutional,sell,5,no_history_for_candidate_symbol
+SGX_0d85c5e941b6,2019-04-08,CGN,Best World International,institutional,sell,9,no_history_for_candidate_symbol
+SGX_0d85c5e941b6,2019-04-08,CGN,Best World International,retail,buy,2,no_history_for_candidate_symbol
+SGX_0d85c5e941b6,2019-04-08,J37,Jardine Strategic,retail,buy,8,no_history_for_candidate_symbol
+SGX_0d85c5e941b6,2019-04-08,T39,SPH,retail,sell,10,no_history_for_candidate_symbol
+SGX_e76e9d581d67,2019-04-15,T39,SPH,institutional,sell,7,no_history_for_candidate_symbol
+SGX_e76e9d581d67,2019-04-15,C31,CapitaLand,institutional,sell,8,no_history_for_candidate_symbol
+SGX_e76e9d581d67,2019-04-15,CGN,Best World International,institutional,sell,10,no_history_for_candidate_symbol
+SGX_e76e9d581d67,2019-04-15,CGN,Best World International,retail,buy,3,no_history_for_candidate_symbol
+SGX_e76e9d581d67,2019-04-15,T39,SPH,retail,buy,4,no_history_for_candidate_symbol
+SGX_e76e9d581d67,2019-04-15,H17,Hi-P International,retail,buy,6,no_history_for_candidate_symbol
+SGX_59608300d086,2019-04-22,C31,CapitaLand,institutional,sell,8,no_history_for_candidate_symbol
+SGX_59608300d086,2019-04-22,C61U,CapitaLand Commercial Trust,institutional,sell,9,no_history_for_candidate_symbol
+SGX_59608300d086,2019-04-22,C31,CapitaLand,retail,buy,4,no_history_for_candidate_symbol
+SGX_59608300d086,2019-04-22,C61U,CapitaLand Commercial Trust,retail,buy,10,no_history_for_candidate_symbol
+SGX_8b65d8c14969,2019-04-29,C31,CapitaLand,institutional,buy,3,no_history_for_candidate_symbol
+SGX_8b65d8c14969,2019-04-29,CGN,Best World International,retail,buy,6,no_history_for_candidate_symbol
+SGX_8b65d8c14969,2019-04-29,C31,CapitaLand,retail,sell,10,no_history_for_candidate_symbol
+SGX_ccababdd4932,2019-05-06,BVQ,Procurri Corporation,retail,buy,8,no_history_for_candidate_symbol
+SGX_ccababdd4932,2019-05-06,C31,CapitaLand,retail,sell,5,no_history_for_candidate_symbol
+SGX_2a7125e82993,2019-05-13,J37,Jardine Strategic,institutional,buy,8,no_history_for_candidate_symbol
+SGX_2a7125e82993,2019-05-13,CGN,Best World International,institutional,buy,10,no_history_for_candidate_symbol
+SGX_2a7125e82993,2019-05-13,C31,CapitaLand,institutional,sell,4,no_history_for_candidate_symbol
+SGX_2a7125e82993,2019-05-13,C61U,CapitaLand Commercial Trust,institutional,sell,7,no_history_for_candidate_symbol
+SGX_2a7125e82993,2019-05-13,C31,CapitaLand,retail,buy,7,no_history_for_candidate_symbol
+SGX_1f4252534e56,2019-05-21,C61U,CapitaLand Commercial Trust,institutional,buy,4,no_history_for_candidate_symbol
+SGX_1f4252534e56,2019-05-21,BOL,Memtech International,institutional,buy,5,no_history_for_candidate_symbol
+SGX_1f4252534e56,2019-05-21,T39,SPH,institutional,buy,10,no_history_for_candidate_symbol
+SGX_1f4252534e56,2019-05-21,C31,CapitaLand,institutional,sell,8,no_history_for_candidate_symbol
+SGX_1f4252534e56,2019-05-21,C31,CapitaLand,retail,buy,10,no_history_for_candidate_symbol
+SGX_1f4252534e56,2019-05-21,BOL,Memtech International,retail,sell,4,no_history_for_candidate_symbol
+SGX_1f4252534e56,2019-05-21,C61U,CapitaLand Commercial Trust,retail,sell,8,no_history_for_candidate_symbol
+SGX_86a21c3c074c,2019-05-27,T39,SPH,institutional,buy,6,no_history_for_candidate_symbol
+SGX_86a21c3c074c,2019-05-27,C31,CapitaLand,retail,buy,9,no_history_for_candidate_symbol
+SGX_86a21c3c074c,2019-05-27,BOL,Memtech International,retail,sell,6,no_history_for_candidate_symbol
+SGX_f25e5ba36655,2019-06-03,C61U,CapitaLand Commercial Trust,institutional,buy,9,no_history_for_candidate_symbol
+SGX_f25e5ba36655,2019-06-03,C31,CapitaLand,retail,buy,6,no_history_for_candidate_symbol
+SGX_f25e5ba36655,2019-06-03,A68U,Ascott Residence Trust,retail,sell,2,no_history_for_candidate_symbol
+SGX_f25e5ba36655,2019-06-03,U04,United Engineers,retail,sell,5,no_history_for_candidate_symbol
+SGX_f25e5ba36655,2019-06-03,ND8U,Frasers Commercial Trust,retail,sell,8,no_history_for_candidate_symbol
+SGX_0b74694bb9e2,2019-06-10,C61U,CapitaLand Commercial Trust,institutional,buy,4,no_history_for_candidate_symbol
+SGX_0b74694bb9e2,2019-06-10,T39,SPH,retail,buy,8,no_history_for_candidate_symbol
+SGX_0b74694bb9e2,2019-06-10,C61U,CapitaLand Commercial Trust,retail,sell,4,no_history_for_candidate_symbol
+SGX_0b74694bb9e2,2019-06-10,A68U,Ascott Residence Trust,retail,sell,10,no_history_for_candidate_symbol
+SGX_1d9b1a541388,2019-06-17,C31,CapitaLand,institutional,buy,5,no_history_for_candidate_symbol
+SGX_1d9b1a541388,2019-06-17,C61U,CapitaLand Commercial Trust,institutional,buy,8,no_history_for_candidate_symbol
+SGX_1d9b1a541388,2019-06-17,U04,United Engineers,institutional,sell,1,no_history_for_candidate_symbol
+SGX_1d9b1a541388,2019-06-17,U04,United Engineers,retail,buy,2,no_history_for_candidate_symbol
+SGX_1d9b1a541388,2019-06-17,C31,CapitaLand,retail,sell,3,no_history_for_candidate_symbol
+SGX_1d9b1a541388,2019-06-17,A68U,Ascott Residence Trust,retail,sell,9,no_history_for_candidate_symbol
+SGX_4089552e1190,2019-06-24,C61U,CapitaLand Commercial Trust,institutional,buy,2,no_history_for_candidate_symbol
+SGX_4089552e1190,2019-06-24,RW0U,Mapletree North Asia Commercial Trust,institutional,buy,6,no_history_for_candidate_symbol
+SGX_4089552e1190,2019-06-24,T39,SPH,institutional,sell,10,no_history_for_candidate_symbol
+SGX_4089552e1190,2019-06-24,UD2,Japfa,retail,buy,4,no_history_for_candidate_symbol
+SGX_4089552e1190,2019-06-24,C31,CapitaLand,retail,sell,6,no_history_for_candidate_symbol
+SGX_8d50d734703f,2019-07-01,ND8U,Frasers Commercial Trust,institutional,buy,7,no_history_for_candidate_symbol
+SGX_8d50d734703f,2019-07-01,A68U,Ascott Residence Trust,institutional,buy,8,no_history_for_candidate_symbol
+SGX_8d50d734703f,2019-07-01,J37,Jardine Strategic,institutional,buy,9,no_history_for_candidate_symbol
+SGX_8d50d734703f,2019-07-01,C61U,CapitaLand Commercial Trust,institutional,buy,10,no_history_for_candidate_symbol
+SGX_8d50d734703f,2019-07-01,CNNU,Cromwell European REIT,retail,buy,4,no_history_for_candidate_symbol
+SGX_8d50d734703f,2019-07-01,ACV,Frasers Hospitality Trust,retail,buy,9,no_history_for_candidate_symbol
+SGX_8d50d734703f,2019-07-01,SK6U,SPH REIT,retail,buy,10,no_history_for_candidate_symbol
+SGX_8d50d734703f,2019-07-01,C31,CapitaLand,retail,sell,6,no_history_for_candidate_symbol
+SGX_8d50d734703f,2019-07-01,C61U,CapitaLand Commercial Trust,retail,sell,9,no_history_for_candidate_symbol
+SGX_ef6a1f0e352e,2019-07-08,C31,CapitaLand,institutional,buy,1,no_history_for_candidate_symbol
+SGX_ef6a1f0e352e,2019-07-08,C61U,CapitaLand Commercial Trust,institutional,buy,6,no_history_for_candidate_symbol
+SGX_ef6a1f0e352e,2019-07-08,T39,SPH,institutional,buy,9,no_history_for_candidate_symbol
+SGX_ef6a1f0e352e,2019-07-08,U04,United Engineers,institutional,sell,7,no_history_for_candidate_symbol
+SGX_ef6a1f0e352e,2019-07-08,U04,United Engineers,retail,buy,3,no_history_for_candidate_symbol
+SGX_ef6a1f0e352e,2019-07-08,CNNU,Cromwell European REIT,retail,buy,5,no_history_for_candidate_symbol
+SGX_ef6a1f0e352e,2019-07-08,RW0U,Mapletree North Asia Commercial Trust,retail,buy,7,no_history_for_candidate_symbol
+SGX_ef6a1f0e352e,2019-07-08,T4B,Sino Grandness,retail,buy,10,no_history_for_candidate_symbol
+SGX_ef6a1f0e352e,2019-07-08,C31,CapitaLand,retail,sell,2,no_history_for_candidate_symbol
+SGX_ef6a1f0e352e,2019-07-08,T39,SPH,retail,sell,10,no_history_for_candidate_symbol
+SGX_8070a27c9d09,2019-07-15,F25U,Fortune REIT,institutional,buy,2,no_history_for_candidate_symbol
+SGX_8070a27c9d09,2019-07-15,588,Health Management International,institutional,buy,4,no_history_for_candidate_symbol
+SGX_8070a27c9d09,2019-07-15,RW0U,Mapletree North Asia Commercial Trust,institutional,buy,7,no_history_for_candidate_symbol
+SGX_8070a27c9d09,2019-07-15,SK6U,SPH REIT,institutional,buy,10,no_history_for_candidate_symbol
+SGX_8070a27c9d09,2019-07-15,C61U,CapitaLand Commercial Trust,institutional,sell,3,no_history_for_candidate_symbol
+SGX_8070a27c9d09,2019-07-15,BWCU,EC World REIT,retail,buy,5,no_history_for_candidate_symbol
+SGX_8070a27c9d09,2019-07-15,C61U,CapitaLand Commercial Trust,retail,buy,6,no_history_for_candidate_symbol
+SGX_8070a27c9d09,2019-07-15,C31,CapitaLand,retail,sell,5,no_history_for_candidate_symbol
+SGX_8070a27c9d09,2019-07-15,F25U,Fortune REIT,retail,sell,6,no_history_for_candidate_symbol
+SGX_8070a27c9d09,2019-07-15,588,Health Management International,retail,sell,9,no_history_for_candidate_symbol
+SGX_c55890ba8af4,2019-07-22,F25U,Fortune REIT,institutional,buy,5,no_history_for_candidate_symbol
+SGX_c55890ba8af4,2019-07-22,H17,Hi-P International,institutional,buy,10,no_history_for_candidate_symbol
+SGX_c55890ba8af4,2019-07-22,C31,CapitaLand,institutional,sell,2,no_history_for_candidate_symbol
+SGX_c55890ba8af4,2019-07-22,T39,SPH,institutional,sell,5,no_history_for_candidate_symbol
+SGX_c55890ba8af4,2019-07-22,C61U,CapitaLand Commercial Trust,institutional,sell,8,no_history_for_candidate_symbol
+SGX_c55890ba8af4,2019-07-22,T39,SPH,retail,buy,1,no_history_for_candidate_symbol
+SGX_c55890ba8af4,2019-07-22,C61U,CapitaLand Commercial Trust,retail,buy,4,no_history_for_candidate_symbol
+SGX_c55890ba8af4,2019-07-22,BWCU,EC World REIT,retail,buy,7,no_history_for_candidate_symbol
+SGX_c55890ba8af4,2019-07-22,ACV,Frasers Hospitality Trust,retail,buy,9,no_history_for_candidate_symbol
+SGX_94e98a513abe,2019-07-29,RW0U,Mapletree North Asia Commercial Trust,institutional,sell,4,no_history_for_candidate_symbol
+SGX_94e98a513abe,2019-07-29,T39,SPH,retail,buy,4,no_history_for_candidate_symbol
+SGX_94e98a513abe,2019-07-29,RW0U,Mapletree North Asia Commercial Trust,retail,buy,6,no_history_for_candidate_symbol
+SGX_58585ed49ced,2019-08-05,ND8U,Frasers Commercial Trust,institutional,buy,8,no_history_for_candidate_symbol
+SGX_58585ed49ced,2019-08-05,BQO,Delong Holdings,institutional,buy,10,no_history_for_candidate_symbol
+SGX_58585ed49ced,2019-08-05,RW0U,Mapletree North Asia Commercial Trust,institutional,sell,9,no_history_for_candidate_symbol
+SGX_58585ed49ced,2019-08-05,BQO,Delong Holdings,retail,sell,2,no_history_for_candidate_symbol
+SGX_58585ed49ced,2019-08-05,Q1P,Ascendas Hospitality Trust,retail,sell,6,no_history_for_candidate_symbol
+SGX_63e865e0be96,2019-08-13,C31,CapitaLand,institutional,buy,8,no_history_for_candidate_symbol
+SGX_63e865e0be96,2019-08-13,AYL,Star Pharmaceutical,retail,sell,6,no_history_for_candidate_symbol
+SGX_52e83aee81af,2019-08-19,C61U,CapitaLand Commercial Trust,institutional,buy,4,no_history_for_candidate_symbol
+SGX_52e83aee81af,2019-08-19,RW0U,Mapletree North Asia Commercial Trust,institutional,sell,6,no_history_for_candidate_symbol
+SGX_09d277116f08,2019-08-26,T39,SPH,retail,buy,9,no_history_for_candidate_symbol
+SGX_09d277116f08,2019-08-26,A68U,Ascott Residence Trust,retail,sell,7,no_history_for_candidate_symbol
+SGX_09d277116f08,2019-08-26,Q1P,Ascendas Hospitality Trust,retail,sell,10,no_history_for_candidate_symbol
+SGX_75cb5f7e6878,2019-09-09,LIW,Eagle Hospitality Trust,institutional,sell,10,no_history_for_candidate_symbol
+SGX_75cb5f7e6878,2019-09-09,LIW,Eagle Hospitality Trust,retail,buy,5,no_history_for_candidate_symbol
+SGX_75cb5f7e6878,2019-09-09,C31,CapitaLand,retail,sell,5,no_history_for_candidate_symbol
+SGX_55bf6a1fa0dc,2019-09-16,T39,SPH,institutional,buy,9,no_history_for_candidate_symbol
+SGX_55bf6a1fa0dc,2019-09-16,C61U,CapitaLand Commercial Trust,institutional,sell,8,no_history_for_candidate_symbol
+SGX_55bf6a1fa0dc,2019-09-16,C61U,CapitaLand Commercial Trust,retail,buy,3,no_history_for_candidate_symbol
+SGX_55bf6a1fa0dc,2019-09-16,RW0U,Mapletree North Asia Commercial Trust,retail,buy,6,no_history_for_candidate_symbol
+SGX_55bf6a1fa0dc,2019-09-16,ND8U,Frasers Commercial Trust,retail,buy,9,no_history_for_candidate_symbol
+SGX_55bf6a1fa0dc,2019-09-16,T39,SPH,retail,sell,9,no_history_for_candidate_symbol
+SGX_55bf6a1fa0dc,2019-09-16,C31,CapitaLand,retail,sell,10,no_history_for_candidate_symbol
+SGX_eaa5a4f74ef1,2019-09-23,T39,SPH,institutional,buy,10,no_history_for_candidate_symbol
+SGX_eaa5a4f74ef1,2019-09-23,LIW,Eagle Hospitality Trust,institutional,sell,4,no_history_for_candidate_symbol
+SGX_eaa5a4f74ef1,2019-09-23,C31,CapitaLand,institutional,sell,5,no_history_for_candidate_symbol
+SGX_eaa5a4f74ef1,2019-09-23,RW0U,Mapletree North Asia Commercial Trust,institutional,sell,10,no_history_for_candidate_symbol
+SGX_eaa5a4f74ef1,2019-09-23,LIW,Eagle Hospitality Trust,retail,buy,2,no_history_for_candidate_symbol
+SGX_eaa5a4f74ef1,2019-09-23,C31,CapitaLand,retail,buy,10,no_history_for_candidate_symbol
+SGX_eaa5a4f74ef1,2019-09-23,T39,SPH,retail,sell,3,no_history_for_candidate_symbol
+SGX_eaa5a4f74ef1,2019-09-23,C61U,CapitaLand Commercial Trust,retail,sell,4,no_history_for_candidate_symbol
+SGX_c81694dda924,2019-09-30,C31,CapitaLand,institutional,buy,6,no_history_for_candidate_symbol
+SGX_c81694dda924,2019-09-30,T39,SPH,institutional,buy,7,no_history_for_candidate_symbol
+SGX_c81694dda924,2019-09-30,C61U,CapitaLand Commercial Trust,institutional,sell,1,no_history_for_candidate_symbol
+SGX_c81694dda924,2019-09-30,ND8U,Frasers Commercial Trust,institutional,sell,4,no_history_for_candidate_symbol
+SGX_c81694dda924,2019-09-30,ND8U,Frasers Commercial Trust,retail,buy,7,no_history_for_candidate_symbol
+SGX_c81694dda924,2019-09-30,T39,SPH,retail,sell,3,no_history_for_candidate_symbol
+SGX_4208405f1980,2019-10-07,T39,SPH,institutional,buy,2,no_history_for_candidate_symbol
+SGX_4208405f1980,2019-10-07,C31,CapitaLand,institutional,buy,8,no_history_for_candidate_symbol
+SGX_4208405f1980,2019-10-07,M04,Mandarin Oriental,institutional,buy,9,no_history_for_candidate_symbol
+SGX_4208405f1980,2019-10-07,C61U,CapitaLand Commercial Trust,institutional,sell,4,no_history_for_candidate_symbol
+SGX_4208405f1980,2019-10-07,T39,SPH,retail,sell,2,no_history_for_candidate_symbol
+SGX_4208405f1980,2019-10-07,M04,Mandarin Oriental,retail,sell,7,no_history_for_candidate_symbol
+SGX_4208405f1980,2019-10-07,C31,CapitaLand,retail,sell,8,no_history_for_candidate_symbol
+SGX_f7e9bf5cdde2,2019-10-14,C31,CapitaLand,institutional,buy,7,no_history_for_candidate_symbol
+SGX_f7e9bf5cdde2,2019-10-14,ND8U,Frasers Commercial Trust,institutional,buy,10,no_history_for_candidate_symbol
+SGX_f7e9bf5cdde2,2019-10-14,RW0U,Mapletree North Asia Comm Trust,institutional,sell,1,no_history_for_candidate_symbol
+SGX_f7e9bf5cdde2,2019-10-14,RW0U,Mapletree North Asia Comm Trust,retail,buy,2,no_history_for_candidate_symbol
+SGX_f7e9bf5cdde2,2019-10-14,H17,Hi-P International,retail,sell,9,no_history_for_candidate_symbol
+SGX_f7e9bf5cdde2,2019-10-14,Q1P,Ascendas Hospitality Trust,retail,sell,10,no_history_for_candidate_symbol
+SGX_584a3bd79d98,2019-10-21,A68U,Ascott Residence Trust,institutional,buy,3,no_history_for_candidate_symbol
+SGX_584a3bd79d98,2019-10-21,H17,Hi-P International,institutional,buy,9,no_history_for_candidate_symbol
+SGX_584a3bd79d98,2019-10-21,RW0U,Mapletree North Asia Comm Trust,institutional,sell,7,no_history_for_candidate_symbol
+SGX_584a3bd79d98,2019-10-21,RW0U,Mapletree North Asia Comm Trust,retail,buy,6,no_history_for_candidate_symbol
+SGX_584a3bd79d98,2019-10-21,A68U,Ascott Residence Trust,retail,sell,5,no_history_for_candidate_symbol
+SGX_584a3bd79d98,2019-10-21,H17,Hi-P International,retail,sell,10,no_history_for_candidate_symbol
+SGX_a9609815167e,2019-10-30,U04,United Engineers,institutional,buy,10,no_history_for_candidate_symbol
+SGX_a9609815167e,2019-10-30,C61U,CapitaLand Commercial Trust,institutional,sell,6,no_history_for_candidate_symbol
+SGX_a9609815167e,2019-10-30,LIW,Eagle Hospitality Trust,institutional,sell,7,no_history_for_candidate_symbol
+SGX_a9609815167e,2019-10-30,LIW,Eagle Hospitality Trust,retail,buy,5,no_history_for_candidate_symbol
+SGX_a9609815167e,2019-10-30,RW0U,Mapletree North Asia Comm Trust,retail,buy,7,no_history_for_candidate_symbol
+SGX_a9609815167e,2019-10-30,U04,United Engineers,retail,sell,9,no_history_for_candidate_symbol
+SGX_19bcbb8c1cce,2019-11-04,U04,United Engineers,institutional,buy,4,no_history_for_candidate_symbol
+SGX_19bcbb8c1cce,2019-11-04,J37,Jardine Strategic Holdings,institutional,buy,9,no_history_for_candidate_symbol
+SGX_19bcbb8c1cce,2019-11-04,C31,CapitaLand,institutional,sell,2,no_history_for_candidate_symbol
+SGX_19bcbb8c1cce,2019-11-04,C61U,CapitaLand Commercial Trust,institutional,sell,6,no_history_for_candidate_symbol
+SGX_19bcbb8c1cce,2019-11-04,LIW,Eagle Hospitality Trust,retail,buy,2,no_history_for_candidate_symbol
+SGX_19bcbb8c1cce,2019-11-04,RW0U,Mapletree North Asia Commercial Trust,retail,buy,8,no_history_for_candidate_symbol
+SGX_19bcbb8c1cce,2019-11-04,U04,United Engineers,retail,sell,10,no_history_for_candidate_symbol
+SGX_d43ba9f40765,2019-11-11,CEE,Citic Envirotech,institutional,buy,4,no_history_for_candidate_symbol
+SGX_d43ba9f40765,2019-11-11,C31,CapitaLand,institutional,buy,9,no_history_for_candidate_symbol
+SGX_d43ba9f40765,2019-11-11,C61U,CapitaLand Commercial Trust,institutional,sell,8,no_history_for_candidate_symbol
+SGX_d43ba9f40765,2019-11-11,LIW,Eagle Hospitality Trust,institutional,sell,9,no_history_for_candidate_symbol
+SGX_d43ba9f40765,2019-11-11,LIW,Eagle Hospitality Trust,retail,buy,3,no_history_for_candidate_symbol
+SGX_d43ba9f40765,2019-11-11,C31,CapitaLand,retail,sell,6,no_history_for_candidate_symbol
+SGX_d43ba9f40765,2019-11-11,CEE,Citic Envirotech,retail,sell,8,no_history_for_candidate_symbol
+SGX_34fb22ec8665,2019-11-18,U04,United Engineers,institutional,buy,1,no_history_for_candidate_symbol
+SGX_34fb22ec8665,2019-11-18,H17,Hi-P International,institutional,buy,10,no_history_for_candidate_symbol
+SGX_34fb22ec8665,2019-11-18,RW0U,Mapletree North Asia Comm Trust,institutional,sell,4,no_history_for_candidate_symbol
+SGX_34fb22ec8665,2019-11-18,J37,Jardine Strategic Holdings,institutional,sell,7,no_history_for_candidate_symbol
+SGX_34fb22ec8665,2019-11-18,C61U,CapitaLand Commercial Trust,institutional,sell,8,no_history_for_candidate_symbol
+SGX_34fb22ec8665,2019-11-18,T39,SPH,institutional,sell,9,no_history_for_candidate_symbol
+SGX_34fb22ec8665,2019-11-18,RW0U,Mapletree North Asia Comm Trust,retail,buy,3,no_history_for_candidate_symbol
+SGX_34fb22ec8665,2019-11-18,C61U,CapitaLand Commercial Trust,retail,buy,8,no_history_for_candidate_symbol
+SGX_34fb22ec8665,2019-11-18,T39,SPH,retail,buy,10,no_history_for_candidate_symbol
+SGX_34fb22ec8665,2019-11-18,U04,United Engineering,retail,sell,1,no_history_for_candidate_symbol
+SGX_17e16650d08d,2019-11-25,CEE,Citic Envirotech,institutional,buy,4,no_history_for_candidate_symbol
+SGX_17e16650d08d,2019-11-25,C31,CapitaLand,institutional,buy,8,no_history_for_candidate_symbol
+SGX_17e16650d08d,2019-11-25,J37,Jardine Strategic,institutional,sell,2,no_history_for_candidate_symbol
+SGX_17e16650d08d,2019-11-25,RW0U,Mapletree North Asia Comm Trust,institutional,sell,3,no_history_for_candidate_symbol
+SGX_17e16650d08d,2019-11-25,SK6U,SPH REIT,institutional,sell,7,no_history_for_candidate_symbol
+SGX_17e16650d08d,2019-11-25,T39,SPH,institutional,sell,10,no_history_for_candidate_symbol
+SGX_17e16650d08d,2019-11-25,RW0U,Mapletree North Asia Comm Trust,retail,buy,5,no_history_for_candidate_symbol
+SGX_17e16650d08d,2019-11-25,SK6U,SPH REIT,retail,buy,8,no_history_for_candidate_symbol
+SGX_17e16650d08d,2019-11-25,CEE,Citic Envirotech,retail,sell,6,no_history_for_candidate_symbol
+SGX_2c8bd15c3261,2019-12-02,J37,Jardine Strategic,institutional,buy,2,no_history_for_candidate_symbol
+SGX_2c8bd15c3261,2019-12-02,RW0U,Mapletree North Asia Comm Trust,institutional,sell,6,no_history_for_candidate_symbol
+SGX_2c8bd15c3261,2019-12-02,T39,SPH,institutional,sell,7,no_history_for_candidate_symbol
+SGX_2c8bd15c3261,2019-12-02,SK6U,SPH REIT,institutional,sell,9,no_history_for_candidate_symbol
+SGX_2c8bd15c3261,2019-12-02,C61U,CapitaLand Commercial Trust,institutional,sell,10,no_history_for_candidate_symbol
+SGX_2c8bd15c3261,2019-12-02,T39,SPH,retail,buy,8,no_history_for_candidate_symbol
+SGX_2c8bd15c3261,2019-12-02,SK6U,SPH REIT,retail,buy,9,no_history_for_candidate_symbol
+SGX_2c8bd15c3261,2019-12-02,RW0U,Mapletree North Asia Comm Trust,retail,buy,10,no_history_for_candidate_symbol
+SGX_2c8bd15c3261,2019-12-02,C31,CapitaLand,retail,sell,7,no_history_for_candidate_symbol
+SGX_a3df6a1e2aac,2019-12-09,ND8U,Frasers Commercial Trust,institutional,buy,8,no_history_for_candidate_symbol
+SGX_a3df6a1e2aac,2019-12-09,C31,CapitaLand,institutional,buy,9,no_history_for_candidate_symbol
+SGX_a3df6a1e2aac,2019-12-09,LIW,Eagle Hospitality Trust,institutional,sell,3,no_history_for_candidate_symbol
+SGX_a3df6a1e2aac,2019-12-09,RW0U,Mapletree North Asia Commercial Trust,institutional,sell,5,no_history_for_candidate_symbol
+SGX_a3df6a1e2aac,2019-12-09,U04,United Engineers,institutional,sell,9,no_history_for_candidate_symbol
+SGX_a3df6a1e2aac,2019-12-09,LIW,Eagle Hospitality Trust,retail,buy,4,no_history_for_candidate_symbol
+SGX_a3df6a1e2aac,2019-12-09,T39,SPH,retail,buy,8,no_history_for_candidate_symbol
+SGX_a3df6a1e2aac,2019-12-09,RW0U,Mapletree North Asia Commercial Trust,retail,buy,10,no_history_for_candidate_symbol
+SGX_a3df6a1e2aac,2019-12-09,ND8U,Frasers Commercial Trust,retail,sell,3,no_history_for_candidate_symbol
+SGX_d332242a6e97,2019-12-16,C31,CapitaLand,institutional,buy,10,no_history_for_candidate_symbol
+SGX_d332242a6e97,2019-12-16,C61U,CapitaLand Commercial Trust,institutional,sell,6,no_history_for_candidate_symbol
+SGX_d332242a6e97,2019-12-16,T39,SPH,institutional,sell,7,no_history_for_candidate_symbol
+SGX_d332242a6e97,2019-12-16,T39,SPH,retail,buy,8,no_history_for_candidate_symbol
+SGX_75f9f73677b2,2019-12-23,C31,CapitaLand,institutional,buy,5,no_history_for_candidate_symbol
+SGX_75f9f73677b2,2019-12-23,T39,SPH,institutional,buy,6,no_history_for_candidate_symbol
+SGX_75f9f73677b2,2019-12-23,RW0U,Mapletree NAC Trust,institutional,sell,6,no_history_for_candidate_symbol
+SGX_75f9f73677b2,2019-12-23,RW0U,Mapletree NAC Trust,retail,buy,7,no_history_for_candidate_symbol
+SGX_75f9f73677b2,2019-12-23,C61U,CapitaLand Commercial Trust,retail,buy,10,no_history_for_candidate_symbol
+SGX_75f9f73677b2,2019-12-23,C31,CapitaLand,retail,sell,3,no_history_for_candidate_symbol
+SGX_75f9f73677b2,2019-12-23,T39,SPH,retail,sell,4,no_history_for_candidate_symbol
+SGX_a10a67ed7404,2019-12-30,U04,United Engineers,institutional,buy,10,no_history_for_candidate_symbol
+SGX_a10a67ed7404,2019-12-30,A68U,Ascott Residence Trust,institutional,sell,3,no_history_for_candidate_symbol
+SGX_a10a67ed7404,2019-12-30,LIW,Eagle Hospitality Trust,institutional,sell,4,no_history_for_candidate_symbol
+SGX_a10a67ed7404,2019-12-30,LIW,Eagle Hospitality Trust,retail,buy,10,no_history_for_candidate_symbol
+SGX_a10a67ed7404,2019-12-30,C31,CapitaLand,retail,sell,3,no_history_for_candidate_symbol
+SGX_a10a67ed7404,2019-12-30,U04,United Engineers,retail,sell,5,no_history_for_candidate_symbol
+SGX_746ee725b0f3,2020-01-06,C31,CapitaLand,institutional,buy,3,no_history_for_candidate_symbol
+SGX_746ee725b0f3,2020-01-06,BWCU,EC World REIT,institutional,sell,3,no_history_for_candidate_symbol
+SGX_746ee725b0f3,2020-01-06,RW0U,Mapletree North Asia Commercial Trust,institutional,sell,8,no_history_for_candidate_symbol
+SGX_746ee725b0f3,2020-01-06,BWCU,EC World REIT,retail,buy,4,no_history_for_candidate_symbol
+SGX_746ee725b0f3,2020-01-06,C61U,CapitaLand Commercial Trust,retail,buy,7,no_history_for_candidate_symbol
+SGX_746ee725b0f3,2020-01-06,C31,CapitaLand,retail,sell,1,no_history_for_candidate_symbol
+SGX_c2e0aaacf4c6,2020-01-13,C31,CapitaLand,institutional,buy,1,no_history_for_candidate_symbol
+SGX_c2e0aaacf4c6,2020-01-13,C61U,CapitaLand Commercial Trust,institutional,buy,2,no_history_for_candidate_symbol
+SGX_c2e0aaacf4c6,2020-01-13,5GJ,AusGroup,institutional,sell,9,no_history_for_candidate_symbol
+SGX_c2e0aaacf4c6,2020-01-13,5GJ,AusGroup,retail,buy,5,no_history_for_candidate_symbol
+SGX_c2e0aaacf4c6,2020-01-13,5CP,Silverlake Axis,retail,buy,8,no_history_for_candidate_symbol
+SGX_c2e0aaacf4c6,2020-01-13,C31,CapitaLand,retail,sell,1,no_history_for_candidate_symbol
+SGX_a3a48c3c943b,2020-01-20,C61U,CapitaLand Commercial Trust,institutional,buy,3,no_history_for_candidate_symbol
+SGX_a3a48c3c943b,2020-01-20,C31,CapitaLand,institutional,buy,8,no_history_for_candidate_symbol
+SGX_a3a48c3c943b,2020-01-20,T39,SPH,institutional,sell,5,no_history_for_candidate_symbol
+SGX_a3a48c3c943b,2020-01-20,T39,SPH,retail,buy,5,no_history_for_candidate_symbol
+SGX_a3a48c3c943b,2020-01-20,RW0U,Mapletree North Asia Commercial Trust,retail,buy,7,no_history_for_candidate_symbol
+SGX_a3a48c3c943b,2020-01-20,LIW,Eagle Hospitality Trust,retail,buy,8,no_history_for_candidate_symbol
+SGX_a3a48c3c943b,2020-01-20,C31,CapitaLand,retail,sell,4,no_history_for_candidate_symbol
+SGX_a3a48c3c943b,2020-01-20,C61U,CapitaLand Commercial Trust,retail,sell,10,no_history_for_candidate_symbol
+SGX_b23baf915383,2020-01-28,C61U,CapitaLand Commercial Trust,institutional,buy,5,no_history_for_candidate_symbol
+SGX_b23baf915383,2020-01-28,C31,CapitaLand,institutional,buy,6,no_history_for_candidate_symbol
+SGX_b23baf915383,2020-01-28,RW0U,Mapetree North Asia Commercial Trust,institutional,buy,7,no_history_for_candidate_symbol
+SGX_b23baf915383,2020-01-28,RW0U,Mapetree North Asia Commercial Trust,retail,sell,4,no_history_for_candidate_symbol
+SGX_b23baf915383,2020-01-28,C61U,CapitaLand Commercial Trust,retail,sell,9,no_history_for_candidate_symbol
+SGX_b23baf915383,2020-01-28,C31,CapitaLand,retail,sell,10,no_history_for_candidate_symbol
+SGX_a55c37e4abff,2020-02-03,C31,CapitaLand,institutional,sell,3,no_history_for_candidate_symbol
+SGX_a55c37e4abff,2020-02-03,C31,CapitaLand,retail,buy,4,no_history_for_candidate_symbol
+SGX_a55c37e4abff,2020-02-03,T39,SPH,retail,buy,6,no_history_for_candidate_symbol
+SGX_4e56722315b9,2020-02-10,C31,CapitaLand,institutional,buy,2,no_history_for_candidate_symbol
+SGX_4e56722315b9,2020-02-10,C31,CapitaLand,retail,sell,5,no_history_for_candidate_symbol
+SGX_aa2a52625bb5,2020-02-17,C31,CapitaLand,institutional,sell,5,no_history_for_candidate_symbol
+SGX_aa2a52625bb5,2020-02-17,ND8U,Frasers Commercial Trust,retail,sell,6,no_history_for_candidate_symbol
+SGX_5a87f56ed001,2020-02-24,C31,CapitaLand,institutional,buy,6,no_history_for_candidate_symbol
+SGX_5a87f56ed001,2020-02-24,H17,Hi-P International,institutional,sell,8,no_history_for_candidate_symbol
+SGX_5a87f56ed001,2020-02-24,H17,Hi-P International,retail,buy,10,no_history_for_candidate_symbol
+SGX_5a87f56ed001,2020-02-24,ND8U,Frasers Commercial Trust,retail,sell,4,no_history_for_candidate_symbol
+SGX_03a68cc395e3,2020-03-02,C31,CapitaLand,institutional,buy,4,no_history_for_candidate_symbol
+SGX_03a68cc395e3,2020-03-02,CTN,Breadtalk Group,retail,sell,7,no_history_for_candidate_symbol
+SGX_03a68cc395e3,2020-03-02,B16,GL Limited,retail,sell,9,no_history_for_candidate_symbol
+SGX_b4d4273bfa6d,2020-03-09,C31,CapitaLand,institutional,buy,2,no_history_for_candidate_symbol
+SGX_b4d4273bfa6d,2020-03-09,C61U,CapitaLand Commercial Trust,institutional,buy,9,no_history_for_candidate_symbol
+SGX_b4d4273bfa6d,2020-03-09,H17,Hi-P International,institutional,sell,10,no_history_for_candidate_symbol
+SGX_b4d4273bfa6d,2020-03-09,C61U,CapitaLand Commercial Trust,retail,sell,7,no_history_for_candidate_symbol
+SGX_2b656c932bdc,2020-03-16,T39,SPH,institutional,buy,4,no_history_for_candidate_symbol
+SGX_2b656c932bdc,2020-03-16,RW0U,Mapletree North Asia Commercial Trust,institutional,buy,7,no_history_for_candidate_symbol
+SGX_2b656c932bdc,2020-03-16,C61U,CapitaLand Commercial Trust,institutional,buy,8,no_history_for_candidate_symbol
+SGX_2b656c932bdc,2020-03-16,C31,CapitaLand,retail,buy,7,no_history_for_candidate_symbol
+SGX_2b656c932bdc,2020-03-16,T39,SPH,retail,sell,2,no_history_for_candidate_symbol
+SGX_2b656c932bdc,2020-03-16,C61U,CapitaLand Commercial Trust,retail,sell,8,no_history_for_candidate_symbol
+SGX_c4e4a1101c16,2020-03-23,T39,SPH,institutional,buy,8,no_history_for_candidate_symbol
+SGX_c4e4a1101c16,2020-03-23,C31,CapitaLand,institutional,sell,8,no_history_for_candidate_symbol
+SGX_c4e4a1101c16,2020-03-23,C31,CapitaLand,retail,buy,8,no_history_for_candidate_symbol
+SGX_c4e4a1101c16,2020-03-23,T39,SPH,retail,sell,4,no_history_for_candidate_symbol
+SGX_ecb785e22434,2020-03-30,T39,SPH,institutional,buy,10,no_history_for_candidate_symbol
+SGX_ecb785e22434,2020-03-30,C31,CapitaLand,institutional,sell,6,no_history_for_candidate_symbol
+SGX_ecb785e22434,2020-03-30,T39,SPH,retail,sell,9,no_history_for_candidate_symbol
+SGX_8d5fd291f77f,2020-04-06,J37,Jardine Strategic Holdings,institutional,buy,7,no_history_for_candidate_symbol
+SGX_8d5fd291f77f,2020-04-06,C31,CapitaLand,institutional,sell,5,no_history_for_candidate_symbol
+SGX_8d5fd291f77f,2020-04-06,C61U,CapitaLand Commercial Trust,institutional,sell,10,no_history_for_candidate_symbol
+SGX_8d5fd291f77f,2020-04-06,C31,CapitaLand,retail,buy,5,no_history_for_candidate_symbol
+SGX_8d5fd291f77f,2020-04-06,T39,SPH,retail,buy,9,no_history_for_candidate_symbol
+SGX_201d4d24c855,2020-04-13,C31,CapitaLand,institutional,buy,4,no_history_for_candidate_symbol
+SGX_201d4d24c855,2020-04-13,T39,SPH,institutional,sell,3,no_history_for_candidate_symbol
+SGX_201d4d24c855,2020-04-13,T39,SPH,retail,buy,1,no_history_for_candidate_symbol
+SGX_201d4d24c855,2020-04-13,C61U,CapitaLand Commercial Trust,retail,buy,7,no_history_for_candidate_symbol
+SGX_201d4d24c855,2020-04-13,C31,CapitaLand,retail,sell,7,no_history_for_candidate_symbol
+SGX_17acbdfa0eaf,2020-04-20,C31,CapitaLand,institutional,sell,7,no_history_for_candidate_symbol
+SGX_17acbdfa0eaf,2020-04-20,T39,SPH,retail,buy,6,no_history_for_candidate_symbol
+SGX_fd1a9ead915f,2020-04-27,C31,CapitaLand,institutional,sell,7,no_history_for_candidate_symbol
+SGX_fd1a9ead915f,2020-04-27,C31,CapitaLand,retail,buy,8,no_history_for_candidate_symbol
+SGX_fd1a9ead915f,2020-04-27,T39,SPH,retail,buy,10,no_history_for_candidate_symbol
+SGX_5ca8d3b96eac,2020-05-11,T39,SPH,institutional,buy,3,no_history_for_candidate_symbol
+SGX_5ca8d3b96eac,2020-05-11,C31,CapitaLand,institutional,sell,8,no_history_for_candidate_symbol
+SGX_5ca8d3b96eac,2020-05-11,C31,CapitaLand,retail,buy,8,no_history_for_candidate_symbol
+SGX_5ca8d3b96eac,2020-05-11,T39,SPH,retail,sell,3,no_history_for_candidate_symbol
+SGX_3b2030794abd,2020-05-18,C31,CapitaLand,institutional,sell,10,no_history_for_candidate_symbol
+SGX_3b2030794abd,2020-05-18,C31,CapitaLand,retail,buy,8,no_history_for_candidate_symbol
+SGX_c9c7cd7d8a3b,2020-05-26,C61U,CapitaLand Commercial Trust,institutional,buy,4,no_history_for_candidate_symbol
+SGX_c9c7cd7d8a3b,2020-05-26,C31,CapitaLand,institutional,buy,10,no_history_for_candidate_symbol
+SGX_c9c7cd7d8a3b,2020-05-26,5CP,Silverlake Axis,retail,buy,9,no_history_for_candidate_symbol
+SGX_c9c7cd7d8a3b,2020-05-26,T39,SPH,retail,sell,4,no_history_for_candidate_symbol
+SGX_c9c7cd7d8a3b,2020-05-26,C61U,CapitaLand Commercial Trust,retail,sell,6,no_history_for_candidate_symbol
+SGX_fc16dd9cb69a,2020-06-01,T39,SPH,institutional,sell,4,no_history_for_candidate_symbol
+SGX_fc16dd9cb69a,2020-06-01,C31,CapitaLand,institutional,sell,9,no_history_for_candidate_symbol
+SGX_fc16dd9cb69a,2020-06-01,T39,SPH,retail,buy,3,no_history_for_candidate_symbol
+SGX_7eb3dd840b2d,2020-06-08,42U,Axington,institutional,buy,6,no_history_for_candidate_symbol
+SGX_7eb3dd840b2d,2020-06-08,C31,CapitaLand,institutional,buy,9,no_history_for_candidate_symbol
+SGX_7eb3dd840b2d,2020-06-08,T39,SPH,institutional,sell,5,no_history_for_candidate_symbol
+SGX_7eb3dd840b2d,2020-06-08,T39,SPH,retail,buy,2,no_history_for_candidate_symbol
+SGX_7eb3dd840b2d,2020-06-08,42U,Axington,retail,sell,7,no_history_for_candidate_symbol
+SGX_7eb3dd840b2d,2020-06-08,C31,CapitaLand,retail,sell,8,no_history_for_candidate_symbol
+SGX_061b11a46d94,2020-06-15,T39,SPH,institutional,buy,5,no_history_for_candidate_symbol
+SGX_061b11a46d94,2020-06-15,C31,CapitaLand,retail,buy,8,no_history_for_candidate_symbol
+SGX_061b11a46d94,2020-06-15,T39,SPH,retail,sell,2,no_history_for_candidate_symbol
+SGX_061b11a46d94,2020-06-15,UD2,Japfa,retail,sell,10,no_history_for_candidate_symbol
+SGX_0555e057b5ce,2020-06-22,40S,Perennial Real Estate,institutional,buy,8,no_history_for_candidate_symbol
+SGX_0555e057b5ce,2020-06-22,SK6U,SPH REIT,institutional,buy,10,no_history_for_candidate_symbol
+SGX_0555e057b5ce,2020-06-22,C31,CapitaLand,institutional,sell,4,no_history_for_candidate_symbol
+SGX_0555e057b5ce,2020-06-22,C31,CapitaLand,retail,buy,5,no_history_for_candidate_symbol
+SGX_0555e057b5ce,2020-06-22,40S,Perennial Real Estate,retail,sell,5,no_history_for_candidate_symbol
+SGX_0555e057b5ce,2020-06-22,UD2,Japfa,retail,sell,8,no_history_for_candidate_symbol
+SGX_ddcab09aed59,2020-06-29,C61U,CapitaLand Commercial Trust,institutional,buy,4,no_history_for_candidate_symbol
+SGX_ddcab09aed59,2020-06-29,41A,UG Healthcare,institutional,buy,8,no_history_for_candidate_symbol
+SGX_ddcab09aed59,2020-06-29,C31,CapitaLand,institutional,sell,2,no_history_for_candidate_symbol
+SGX_ddcab09aed59,2020-06-29,C31,CapitaLand,retail,buy,6,no_history_for_candidate_symbol
+SGX_ddcab09aed59,2020-06-29,41A,UG Healthcare,retail,sell,3,no_history_for_candidate_symbol
+SGX_ef60359c9c12,2020-07-06,C31,CapitaLand,institutional,buy,9,no_history_for_candidate_symbol
+SGX_ef60359c9c12,2020-07-06,J37,Jardine Strategic,institutional,sell,10,no_history_for_candidate_symbol
+SGX_ef60359c9c12,2020-07-06,T39,SPH,retail,buy,7,no_history_for_candidate_symbol
+SGX_ef60359c9c12,2020-07-06,C31,CapitaLand,retail,sell,10,no_history_for_candidate_symbol
+SGX_c4151a4906ed,2020-07-13,C31,CapitaLand,institutional,sell,2,no_history_for_candidate_symbol
+SGX_c4151a4906ed,2020-07-13,C31,CapitaLand,retail,buy,2,no_history_for_candidate_symbol
+SGX_c4151a4906ed,2020-07-13,5OT,Singapore Medical Group,retail,buy,7,no_history_for_candidate_symbol
+SGX_b11e962be58e,2020-07-20,M1Z,Tee International,institutional,buy,4,no_history_for_candidate_symbol
+SGX_b11e962be58e,2020-07-20,H17,Hi-P International,institutional,buy,7,no_history_for_candidate_symbol
+SGX_b11e962be58e,2020-07-20,ADQU,Accordia Golf Trust,institutional,buy,8,no_history_for_candidate_symbol
+SGX_b11e962be58e,2020-07-20,41A,UG Healthcare,institutional,buy,9,no_history_for_candidate_symbol
+SGX_b11e962be58e,2020-07-20,C31,CapitaLand,institutional,sell,7,no_history_for_candidate_symbol
+SGX_b11e962be58e,2020-07-20,T39,SPH,institutional,sell,9,no_history_for_candidate_symbol
+SGX_b11e962be58e,2020-07-20,C31,CapitaLand,retail,buy,5,no_history_for_candidate_symbol
+SGX_b11e962be58e,2020-07-20,T39,SPH,retail,buy,6,no_history_for_candidate_symbol
+SGX_b11e962be58e,2020-07-20,M1Z,Tee International,retail,sell,4,no_history_for_candidate_symbol
+SGX_03ddacabe237,2020-07-27,C31,CapitaLand,retail,buy,7,no_history_for_candidate_symbol
+SGX_6073b67a32f7,2020-08-03,41A,UG Healthcare,institutional,buy,3,no_history_for_candidate_symbol
+SGX_6073b67a32f7,2020-08-03,C31,CapitaLand,institutional,sell,5,no_history_for_candidate_symbol
+SGX_6073b67a32f7,2020-08-03,C31,CapitaLand,retail,buy,5,no_history_for_candidate_symbol
+SGX_6073b67a32f7,2020-08-03,41A,UG Healthcare,retail,sell,2,no_history_for_candidate_symbol
+SGX_46752b9c4a44,2020-08-11,J37,Jardine Strategic,institutional,buy,9,no_history_for_candidate_symbol
+SGX_46752b9c4a44,2020-08-11,H17,Hi-P International,retail,sell,7,no_history_for_candidate_symbol
+SGX_46752b9c4a44,2020-08-11,T39,SPH,retail,sell,8,no_history_for_candidate_symbol
+SGX_836e1763b57f,2020-08-17,C31,CapitaLand,retail,buy,10,no_history_for_candidate_symbol
+SGX_836e1763b57f,2020-08-17,5H0,SingHaiyi Group,retail,sell,10,no_history_for_candidate_symbol
+SGX_d47e142e58b6,2020-08-24,RW0U,Mapletree North Asia Commercial Trust,institutional,buy,8,no_history_for_candidate_symbol
+SGX_d47e142e58b6,2020-08-24,C31,CapitaLand,institutional,sell,8,no_history_for_candidate_symbol
+SGX_d47e142e58b6,2020-08-24,C31,CapitaLand,retail,buy,9,no_history_for_candidate_symbol
+SGX_d47e142e58b6,2020-08-24,RW0U,Mapletree North Asia Commercial Trust,retail,sell,7,no_history_for_candidate_symbol
+SGX_34cd281b22b9,2020-08-31,U09,Avarga,institutional,sell,3,no_history_for_candidate_symbol
+SGX_34cd281b22b9,2020-08-31,C31,CapitaLand,retail,buy,7,no_history_for_candidate_symbol
+SGX_34cd281b22b9,2020-08-31,U09,Avarga,retail,buy,9,no_history_for_candidate_symbol
+SGX_53094b2f3d89,2020-09-07,C61U,CapitaLand Commercial Trust,institutional,buy,5,no_history_for_candidate_symbol
+SGX_53094b2f3d89,2020-09-07,C61U,CapitaLand Commercial Trust,retail,sell,4,no_history_for_candidate_symbol
+SGX_73a73ba92295,2020-09-14,C61U,CapitaLand Commercial Trust,institutional,buy,8,no_history_for_candidate_symbol
+SGX_73a73ba92295,2020-09-14,C31,CapitaLand,retail,buy,9,no_history_for_candidate_symbol
+SGX_73a73ba92295,2020-09-14,C61U,CapitaLand Commercial Trust,retail,sell,8,no_history_for_candidate_symbol
+SGX_29378cf08725,2020-09-21,C61U,CapitaLand Commercial Trust,institutional,buy,9,no_history_for_candidate_symbol
+SGX_29378cf08725,2020-09-21,C31,CapitaLand,institutional,sell,5,no_history_for_candidate_symbol
+SGX_29378cf08725,2020-09-21,T39,SPH,institutional,sell,9,no_history_for_candidate_symbol
+SGX_29378cf08725,2020-09-21,C31,CapitaLand,retail,buy,8,no_history_for_candidate_symbol
+SGX_29378cf08725,2020-09-21,T39,SPH,retail,buy,10,no_history_for_candidate_symbol
+SGX_af59f445d957,2020-09-28,C61U,CapitaLand Commercial Trust,institutional,buy,10,no_history_for_candidate_symbol
+SGX_af59f445d957,2020-09-28,C31,CapitaLand,retail,buy,8,no_history_for_candidate_symbol
+SGX_af59f445d957,2020-09-28,41A,UG Healthcare,retail,sell,7,no_history_for_candidate_symbol
+SGX_0a8e3ebdfc2e,2020-10-05,ADQU,Accordia Golf Trust,retail,buy,4,no_history_for_candidate_symbol
+SGX_0a8e3ebdfc2e,2020-10-05,C31,CapitaLand,retail,sell,8,no_history_for_candidate_symbol
+SGX_e269455b2566,2020-10-12,C31,CapitaLand,institutional,buy,6,no_history_for_candidate_symbol
+SGX_e269455b2566,2020-10-12,C31,CapitaLand,retail,sell,4,no_history_for_candidate_symbol
+SGX_d3c2263f6eda,2020-10-19,T39,SPH,institutional,sell,6,no_history_for_candidate_symbol
+SGX_d3c2263f6eda,2020-10-19,T39,SPH,retail,buy,4,no_history_for_candidate_symbol
+SGX_592ce1fb13a7,2020-10-26,C31,CapitaLand,institutional,sell,6,no_history_for_candidate_symbol
+SGX_592ce1fb13a7,2020-10-26,C31,CapitaLand,retail,buy,6,no_history_for_candidate_symbol
+SGX_27fb823e9af9,2020-11-02,RW0U,Mapletree North Asia Commercial Trust,institutional,buy,5,no_history_for_candidate_symbol
+SGX_27fb823e9af9,2020-11-02,T39,SPH,institutional,buy,9,no_history_for_candidate_symbol
+SGX_27fb823e9af9,2020-11-02,C31,CapitaLand,institutional,sell,5,no_history_for_candidate_symbol
+SGX_27fb823e9af9,2020-11-02,C31,CapitaLand,retail,buy,6,no_history_for_candidate_symbol
+SGX_fe386b559531,2020-11-09,C31,CapitaLand,institutional,sell,1,no_history_for_candidate_symbol
+SGX_fe386b559531,2020-11-09,C31,CapitaLand,retail,buy,1,no_history_for_candidate_symbol
+SGX_fe386b559531,2020-11-09,K2LU,ARA LOGOS Logistics Trust,retail,buy,8,no_history_for_candidate_symbol
+SGX_fe386b559531,2020-11-09,UD2,Japfa,retail,sell,10,no_history_for_candidate_symbol
+SGX_19aa5ecf3285,2020-11-16,C31,CapitaLand,institutional,buy,7,no_history_for_candidate_symbol
+SGX_19aa5ecf3285,2020-11-16,C31,CapitaLand,retail,sell,6,no_history_for_candidate_symbol
+SGX_d6c88328c0da,2020-11-23,C31,CapitaLand,institutional,buy,6,no_history_for_candidate_symbol
+SGX_d6c88328c0da,2020-11-23,C31,CapitaLand,retail,sell,5,no_history_for_candidate_symbol
+SGX_ea7b00b5708c,2020-11-30,C31,CapitaLand,institutional,buy,4,no_history_for_candidate_symbol
+SGX_ea7b00b5708c,2020-11-30,T39,SPH,institutional,sell,5,no_history_for_candidate_symbol
+SGX_ea7b00b5708c,2020-11-30,T39,SPH,retail,buy,4,no_history_for_candidate_symbol
+SGX_ea7b00b5708c,2020-11-30,C31,CapitaLand,retail,sell,5,no_history_for_candidate_symbol
+SGX_ea7b00b5708c,2020-11-30,H17,Hi-P International,retail,sell,10,no_history_for_candidate_symbol
+SGX_6a9cc2c8ac2b,2020-12-07,C31,CapitaLand,institutional,buy,4,no_history_for_candidate_symbol
+SGX_6a9cc2c8ac2b,2020-12-07,C31,CapitaLand,retail,sell,4,no_history_for_candidate_symbol
+SGX_6a9cc2c8ac2b,2020-12-07,H17,Hi-P International,retail,sell,10,no_history_for_candidate_symbol
+SGX_15662a994277,2020-12-14,C31,CapitaLand,institutional,buy,3,no_history_for_candidate_symbol
+SGX_15662a994277,2020-12-14,T39,SPH,institutional,sell,7,no_history_for_candidate_symbol
+SGX_15662a994277,2020-12-14,C31,CapitaLand,retail,sell,5,no_history_for_candidate_symbol
+SGX_15662a994277,2020-12-14,RW0U,Mapletree North Asia Commercial Trust,retail,sell,10,no_history_for_candidate_symbol
+SGX_4c159a8e843c,2020-12-21,C31,CapitaLand,institutional,buy,1,no_history_for_candidate_symbol
+SGX_4c159a8e843c,2020-12-21,H17,Hi-P International,institutional,buy,9,no_history_for_candidate_symbol
+SGX_4c159a8e843c,2020-12-21,H17,Hi-P International,retail,sell,5,no_history_for_candidate_symbol
+SGX_4c159a8e843c,2020-12-21,C31,CapitaLand,retail,sell,9,no_history_for_candidate_symbol
+SGX_c26165510063,2020-12-28,H17,Hi-P International,institutional,buy,2,no_history_for_candidate_symbol
+SGX_c26165510063,2020-12-28,C31,CapitaLand,institutional,buy,6,no_history_for_candidate_symbol
+SGX_c26165510063,2020-12-28,C31,CapitaLand,retail,sell,2,no_history_for_candidate_symbol
+SGX_c26165510063,2020-12-28,H17,Hi-P International,retail,sell,3,no_history_for_candidate_symbol
+SGX_592f1330c3ae,2021-01-04,C31,CapitaLand,institutional,buy,2,no_history_for_candidate_symbol
+SGX_592f1330c3ae,2021-01-04,H17,Hi-P International,institutional,buy,10,no_history_for_candidate_symbol
+SGX_592f1330c3ae,2021-01-04,C31,CapitaLand,retail,sell,5,no_history_for_candidate_symbol
+SGX_dfee6afaf6df,2021-01-11,C31,CapitaLand,institutional,buy,9,no_history_for_candidate_symbol
+SGX_dfee6afaf6df,2021-01-11,RW0U,Mapletree North Asia Commercial Trust,retail,buy,8,no_history_for_candidate_symbol
+SGX_dfee6afaf6df,2021-01-11,UD2,Japfa,retail,buy,9,no_history_for_candidate_symbol
+SGX_dfee6afaf6df,2021-01-11,C31,CapitaLand,retail,sell,7,no_history_for_candidate_symbol
+SGX_727c657ae0f4,2021-01-18,C31,CapitaLand,institutional,buy,4,no_history_for_candidate_symbol
+SGX_727c657ae0f4,2021-01-18,T39,SPH,institutional,buy,9,no_history_for_candidate_symbol
+SGX_727c657ae0f4,2021-01-18,C31,CapitaLand,retail,sell,7,no_history_for_candidate_symbol
+SGX_6321bdbece73,2021-01-25,C31,CapitaLand,institutional,sell,6,no_history_for_candidate_symbol
+SGX_6321bdbece73,2021-01-25,B16,GL Limited,retail,sell,8,no_history_for_candidate_symbol
+SGX_f26093801b47,2021-02-01,C31,CapitaLand,institutional,sell,9,no_history_for_candidate_symbol
+SGX_f26093801b47,2021-02-01,T39,SPH,retail,sell,8,no_history_for_candidate_symbol
+SGX_67beca49e2ed,2021-02-08,K2LU,ARA LOGOS Logistics Trust,institutional,buy,9,no_history_for_candidate_symbol
+SGX_67beca49e2ed,2021-02-08,C31,CapitaLand,institutional,buy,10,no_history_for_candidate_symbol
+SGX_67beca49e2ed,2021-02-08,C31,CapitaLand,retail,sell,1,no_history_for_candidate_symbol
+SGX_67beca49e2ed,2021-02-08,K2LU,ARA LOGOS Logistics Trust,retail,sell,7,no_history_for_candidate_symbol
+SGX_8e47304d0b0e,2021-02-15,C31,CapitaLand,institutional,sell,4,no_history_for_candidate_symbol
+SGX_8e47304d0b0e,2021-02-15,C31,CapitaLand,retail,buy,2,no_history_for_candidate_symbol
+SGX_1d2e142adcfe,2021-02-22,T39,SPH,institutional,buy,7,no_history_for_candidate_symbol
+SGX_1d2e142adcfe,2021-02-22,T39,SPH,retail,sell,8,no_history_for_candidate_symbol
+SGX_a552cacb5d11,2021-03-01,T39,SPH,retail,sell,8,no_history_for_candidate_symbol
+SGX_0eefae10c314,2021-03-08,T39,SPH,institutional,buy,6,no_history_for_candidate_symbol
+SGX_0eefae10c314,2021-03-08,T39,SPH,retail,sell,8,no_history_for_candidate_symbol
+SGX_238012d1123d,2021-03-15,J37,Jardine Strategic,institutional,sell,2,no_history_for_candidate_symbol
+SGX_c13d6792e20f,2021-03-22,J37,Jardine Strategic,institutional,buy,1,no_history_for_candidate_symbol
+SGX_c13d6792e20f,2021-03-22,B16,GL Limited,institutional,buy,5,no_history_for_candidate_symbol
+SGX_c13d6792e20f,2021-03-22,T39,SPH,institutional,sell,6,no_history_for_candidate_symbol
+SGX_c13d6792e20f,2021-03-22,T39,SPH,retail,buy,3,no_history_for_candidate_symbol
+SGX_c13d6792e20f,2021-03-22,C31,CapitaLand,retail,buy,9,no_history_for_candidate_symbol
+SGX_c13d6792e20f,2021-03-22,B16,GL Limited,retail,sell,4,no_history_for_candidate_symbol
+SGX_74e4f629828f,2021-03-29,C31,CapitaLand,institutional,buy,4,no_history_for_candidate_symbol
+SGX_74e4f629828f,2021-03-29,T39,SPH,institutional,buy,7,no_history_for_candidate_symbol
+SGX_74e4f629828f,2021-03-29,J37,Jardine Strategic,institutional,sell,1,no_history_for_candidate_symbol
+SGX_74e4f629828f,2021-03-29,C31,CapitaLand,retail,sell,2,no_history_for_candidate_symbol
+SGX_74e4f629828f,2021-03-29,T39,SPH,retail,sell,6,no_history_for_candidate_symbol
+SGX_2713b93d8f69,2021-04-05,T39,SPH,institutional,buy,1,no_history_for_candidate_symbol
+SGX_2713b93d8f69,2021-04-05,RW0U,Mapletree North Asia Commercial Trust,institutional,buy,7,no_history_for_candidate_symbol
+SGX_2713b93d8f69,2021-04-05,J37,Jardine Strategic,institutional,buy,10,no_history_for_candidate_symbol
+SGX_2713b93d8f69,2021-04-05,C31,CapitaLand,institutional,sell,2,no_history_for_candidate_symbol
+SGX_2713b93d8f69,2021-04-05,C31,CapitaLand,retail,buy,2,no_history_for_candidate_symbol
+SGX_2713b93d8f69,2021-04-05,T39,SPH,retail,sell,3,no_history_for_candidate_symbol
+SGX_bfe0b5608ac0,2021-04-12,T39,SPH,institutional,buy,2,no_history_for_candidate_symbol
+SGX_bfe0b5608ac0,2021-04-12,T39,SPH,retail,sell,4,no_history_for_candidate_symbol
+SGX_8237f104e308,2021-04-19,T39,SPH,institutional,buy,3,no_history_for_candidate_symbol
+SGX_8237f104e308,2021-04-19,C31,CapitaLand,institutional,sell,2,no_history_for_candidate_symbol
+SGX_8237f104e308,2021-04-19,J37,Jardine Strategic,institutional,sell,10,no_history_for_candidate_symbol
+SGX_8237f104e308,2021-04-19,C31,CapitaLand,retail,buy,3,no_history_for_candidate_symbol
+SGX_8237f104e308,2021-04-19,T39,SPH,retail,sell,5,no_history_for_candidate_symbol
+SGX_439543c7d37a,2021-04-26,C31,CapitaLand,institutional,sell,4,no_history_for_candidate_symbol
+SGX_439543c7d37a,2021-04-26,C31,CapitaLand,retail,buy,2,no_history_for_candidate_symbol
+SGX_4cde1c2ba1a6,2021-05-03,RW0U,Mapletree North Asia Commercial Trust,institutional,buy,8,no_history_for_candidate_symbol
+SGX_4cde1c2ba1a6,2021-05-03,C31,CapitaLand,institutional,sell,1,no_history_for_candidate_symbol
+SGX_4cde1c2ba1a6,2021-05-03,T39,SPH,institutional,sell,7,no_history_for_candidate_symbol
+SGX_4cde1c2ba1a6,2021-05-03,C31,CapitaLand,retail,buy,3,no_history_for_candidate_symbol
+SGX_4cde1c2ba1a6,2021-05-03,T39,SPH,retail,buy,7,no_history_for_candidate_symbol
+SGX_4cde1c2ba1a6,2021-05-03,RW0U,Mapletree North Asia Commercial Trust,retail,sell,10,no_history_for_candidate_symbol
+SGX_52a69eca0d6e,2021-05-10,K2LU,ARA LOGOS Logistics Trust,institutional,buy,9,no_history_for_candidate_symbol
+SGX_52a69eca0d6e,2021-05-10,C31,CapitaLand,institutional,sell,5,no_history_for_candidate_symbol
+SGX_52a69eca0d6e,2021-05-10,C31,CapitaLand,retail,buy,5,no_history_for_candidate_symbol
+SGX_52a69eca0d6e,2021-05-10,RW0U,Mapletree North Asia Commercial Trust,retail,sell,9,no_history_for_candidate_symbol
+SGX_211a830929d0,2021-05-17,C31,CapitaLand,institutional,buy,3,no_history_for_candidate_symbol
+SGX_211a830929d0,2021-05-17,T39,SPH,institutional,buy,6,no_history_for_candidate_symbol
+SGX_211a830929d0,2021-05-17,T39,SPH,retail,sell,4,no_history_for_candidate_symbol
+SGX_211a830929d0,2021-05-17,C31,CapitaLand,retail,sell,9,no_history_for_candidate_symbol
+SGX_4e9a98f7e3c6,2021-05-24,T39,SPH,institutional,buy,9,no_history_for_candidate_symbol
+SGX_4e9a98f7e3c6,2021-05-24,T39,SPH,retail,sell,6,no_history_for_candidate_symbol
+SGX_13b91f769de5,2021-05-31,C31,CapitaLand,retail,sell,8,no_history_for_candidate_symbol
+SGX_9c30f225d90f,2021-06-07,C31,CapitaLand,institutional,buy,8,no_history_for_candidate_symbol
+SGX_9c30f225d90f,2021-06-07,T39,SPH,institutional,buy,9,no_history_for_candidate_symbol
+SGX_9c30f225d90f,2021-06-07,T39,SPH,retail,sell,3,no_history_for_candidate_symbol
+SGX_16c45d515454,2021-06-14,T39,SPH,institutional,buy,2,no_history_for_candidate_symbol
+SGX_16c45d515454,2021-06-14,C31,CapitaLand,institutional,buy,3,no_history_for_candidate_symbol
+SGX_16c45d515454,2021-06-14,T39,SPH,retail,sell,2,no_history_for_candidate_symbol
+SGX_16c45d515454,2021-06-14,C31,CapitaLand,retail,sell,3,no_history_for_candidate_symbol
+SGX_43c646228b34,2021-06-21,L03,Lian Beng Group,institutional,buy,7,no_history_for_candidate_symbol
+SGX_43c646228b34,2021-06-21,L03,Lian Beng Group,retail,sell,3,no_history_for_candidate_symbol
+SGX_43c646228b34,2021-06-21,T39,SPH,retail,sell,5,no_history_for_candidate_symbol
+SGX_f9b63c1df493,2021-06-28,T39,SPH,retail,buy,9,no_history_for_candidate_symbol
+SGX_01daf04d6fab,2021-07-12,C31,CapitaLand,institutional,buy,4,no_history_for_candidate_symbol
+SGX_01daf04d6fab,2021-07-12,O32,Olam International,institutional,sell,10,no_history_for_candidate_symbol
+SGX_01daf04d6fab,2021-07-12,C31,CapitaLand,retail,sell,2,no_history_for_candidate_symbol
+SGX_85fc6915902f,2021-07-19,C31,CapitaLand,institutional,buy,1,no_history_for_candidate_symbol
+SGX_85fc6915902f,2021-07-19,C31,CapitaLand,retail,sell,4,no_history_for_candidate_symbol
+SGX_d18ec2f55928,2021-07-26,C31,CapitaLand,institutional,buy,1,no_history_for_candidate_symbol
+SGX_d18ec2f55928,2021-07-26,T39,SPH,institutional,buy,6,no_history_for_candidate_symbol
+SGX_d18ec2f55928,2021-07-26,K2LU,ARA LOGOS Logistics Trust,institutional,buy,10,no_history_for_candidate_symbol
+SGX_d18ec2f55928,2021-07-26,C31,CapitaLand,retail,sell,1,no_history_for_candidate_symbol
+SGX_d18ec2f55928,2021-07-26,T39,SPH,retail,sell,3,no_history_for_candidate_symbol
+SGX_ae4ed78d0cd9,2021-08-02,T39,SPH,institutional,buy,3,no_history_for_candidate_symbol
+SGX_ae4ed78d0cd9,2021-08-02,C31,CapitaLand,institutional,sell,8,no_history_for_candidate_symbol
+SGX_ae4ed78d0cd9,2021-08-02,O32,Olam Interntional,retail,buy,4,no_history_for_candidate_symbol
+SGX_ae4ed78d0cd9,2021-08-02,RW0U,Mapletree North Asia Commercial Trust,retail,buy,7,no_history_for_candidate_symbol
+SGX_ae4ed78d0cd9,2021-08-02,C31,CapitaLand,retail,sell,4,no_history_for_candidate_symbol
+SGX_cb76a71ac1f3,2021-08-10,T39,SPH,institutional,buy,2,no_history_for_candidate_symbol
+SGX_cb76a71ac1f3,2021-08-10,C31,CapitaLand,institutional,buy,5,no_history_for_candidate_symbol
+SGX_cb76a71ac1f3,2021-08-10,C31,CapitaLand,retail,sell,3,no_history_for_candidate_symbol
+SGX_cb76a71ac1f3,2021-08-10,T39,SPH,retail,sell,4,no_history_for_candidate_symbol
+SGX_55bcda1465a9,2021-08-16,C31,CapitaLand,institutional,buy,2,no_history_for_candidate_symbol
+SGX_55bcda1465a9,2021-08-16,T39,SPH,institutional,buy,9,no_history_for_candidate_symbol
+SGX_55bcda1465a9,2021-08-16,O32,Olam International,institutional,buy,10,no_history_for_candidate_symbol
+SGX_55bcda1465a9,2021-08-16,C31,CapitaLand,retail,sell,2,no_history_for_candidate_symbol
+SGX_bcb61b0d543b,2021-08-23,C31,CapitaLand,institutional,buy,5,no_history_for_candidate_symbol
+SGX_bcb61b0d543b,2021-08-23,T39,SPH,institutional,sell,9,no_history_for_candidate_symbol
+SGX_bcb61b0d543b,2021-08-23,C31,CapitaLand,retail,sell,5,no_history_for_candidate_symbol
+SGX_bcb61b0d543b,2021-08-23,O32,Olam International,retail,sell,8,no_history_for_candidate_symbol
+SGX_bcb61b0d543b,2021-08-23,K2LU,ARA LOGOS Logistics Trust,retail,sell,10,no_history_for_candidate_symbol
+SGX_a4ba09dc57c9,2021-08-30,C31,CapitaLand,institutional,buy,3,no_history_for_candidate_symbol
+SGX_a4ba09dc57c9,2021-08-30,C31,CapitaLand,retail,sell,2,no_history_for_candidate_symbol
+SGX_a4ba09dc57c9,2021-08-30,T39,SPH,retail,sell,5,no_history_for_candidate_symbol
+SGX_e3432f0ce7b6,2021-09-06,T39,SPH,institutional,buy,3,no_history_for_candidate_symbol
+SGX_e3432f0ce7b6,2021-09-06,C31,CapitaLand,institutional,sell,6,no_history_for_candidate_symbol
+SGX_e3432f0ce7b6,2021-09-06,T39,SPH,retail,sell,1,no_history_for_candidate_symbol
+SGX_e3432f0ce7b6,2021-09-06,C31,CapitaLand,retail,sell,2,no_history_for_candidate_symbol
+SGX_e3432f0ce7b6,2021-09-06,SK6U,SPH REIT,retail,sell,10,no_history_for_candidate_symbol
+SGX_2a7ebbd57a3f,2021-09-13,C31,CapitaLand,institutional,buy,2,no_history_for_candidate_symbol
+SGX_2a7ebbd57a3f,2021-09-13,T39,SPH,institutional,buy,6,no_history_for_candidate_symbol
+SGX_2a7ebbd57a3f,2021-09-13,C31,CapitaLand,retail,sell,2,no_history_for_candidate_symbol
+SGX_2a7ebbd57a3f,2021-09-13,T39,SPH,retail,sell,8,no_history_for_candidate_symbol
+SGX_2a7ebbd57a3f,2021-09-13,CWBU,Cromwell European REIT,retail,sell,10,no_history_for_candidate_symbol
+SGX_71048d93668d,2021-09-20,K2LU,ARA LOGOS Logistics Trust,institutional,buy,3,no_history_for_candidate_symbol
+SGX_71048d93668d,2021-09-20,CWBU,Cromwell European REIT,institutional,buy,8,no_history_for_candidate_symbol
+SGX_71048d93668d,2021-09-20,SK6U,SPH REIT,institutional,buy,9,no_history_for_candidate_symbol
+SGX_71048d93668d,2021-09-20,RW0U,Mapletree North Asia Commercial Trust,institutional,sell,8,no_history_for_candidate_symbol
+SGX_71048d93668d,2021-09-20,T39,SPH,retail,sell,5,no_history_for_candidate_symbol
+SGX_71048d93668d,2021-09-20,K2LU,ARA LOGOS Logistics Trust,retail,sell,8,no_history_for_candidate_symbol
+SGX_9afeba379903,2021-09-27,T39,SPH,institutional,buy,3,no_history_for_candidate_symbol
+SGX_9afeba379903,2021-09-27,RW0U,Mapletree North Asia Commercial Trust,institutional,sell,10,no_history_for_candidate_symbol
+SGX_9afeba379903,2021-09-27,RW0U,Mapletree North Asia Commercial Trust,retail,buy,8,no_history_for_candidate_symbol
+SGX_9afeba379903,2021-09-27,T39,SPH,retail,sell,4,no_history_for_candidate_symbol
+SGX_9afeba379903,2021-09-27,O32,Olam International,retail,sell,8,no_history_for_candidate_symbol
+SGX_2be6cb35be41,2021-10-04,O32,Olam International,institutional,buy,8,no_history_for_candidate_symbol
+SGX_2be6cb35be41,2021-10-04,T39,SPH,institutional,buy,10,no_history_for_candidate_symbol
+SGX_2be6cb35be41,2021-10-04,T39,SPH,retail,sell,8,no_history_for_candidate_symbol
+SGX_2be6cb35be41,2021-10-04,O32,Olam International,retail,sell,9,no_history_for_candidate_symbol
+SGX_f249ab67eced,2021-10-11,T39,SPH,institutional,buy,9,no_history_for_candidate_symbol
+SGX_6f88b65d6a6b,2021-10-25,RW0U,Mapletree North Asia Commercial Trust,retail,buy,10,no_history_for_candidate_symbol
+SGX_707aafb91f19,2021-11-08,T39,SPH,institutional,buy,6,no_history_for_candidate_symbol
+SGX_707aafb91f19,2021-11-08,UD2,Japfa,retail,buy,7,no_history_for_candidate_symbol
+SGX_707aafb91f19,2021-11-08,T39,SPH,retail,sell,3,no_history_for_candidate_symbol
+SGX_707aafb91f19,2021-11-08,SK6U,SPH REIT,retail,sell,10,no_history_for_candidate_symbol
+SGX_c3aa66519e22,2021-11-15,5H0,Singhaiyi Group,institutional,buy,4,no_history_for_candidate_symbol
+SGX_c3aa66519e22,2021-11-15,T39,SPH,institutional,sell,4,no_history_for_candidate_symbol
+SGX_c3aa66519e22,2021-11-15,T39,SPH,retail,buy,3,no_history_for_candidate_symbol
+SGX_c3aa66519e22,2021-11-15,5H0,Singhaiyi Group,retail,sell,7,no_history_for_candidate_symbol
+SGX_d7aafe9c988f,2021-11-22,T39,SPH,retail,sell,7,no_history_for_candidate_symbol
+SGX_4c2044782a32,2021-11-29,RW0U,Mapletree North Asia Commercial Trust,institutional,buy,6,no_history_for_candidate_symbol
+SGX_4c2044782a32,2021-11-29,T39,SPH,institutional,buy,7,no_history_for_candidate_symbol
+SGX_4c2044782a32,2021-11-29,T39,SPH,retail,sell,2,no_history_for_candidate_symbol
+SGX_4c2044782a32,2021-11-29,RW0U,Mapletree North Asia Commercial Trust,retail,sell,7,no_history_for_candidate_symbol
+SGX_6bb8c555b382,2021-12-06,T39,SPH,institutional,buy,3,no_history_for_candidate_symbol
+SGX_6bb8c555b382,2021-12-06,T39,SPH,retail,sell,1,no_history_for_candidate_symbol
+SGX_6bb8c555b382,2021-12-06,5H0,Singhaiyi Group,retail,sell,7,no_history_for_candidate_symbol
+SGX_d3dab166767e,2021-12-13,T39,SPH,institutional,buy,4,no_history_for_candidate_symbol
+SGX_d3dab166767e,2021-12-13,T39,SPH,retail,sell,3,no_history_for_candidate_symbol
+SGX_d3dab166767e,2021-12-13,O32,Olam International,retail,sell,10,no_history_for_candidate_symbol
+SGX_7c81ae170c96,2021-12-20,T39,SPH,institutional,buy,4,no_history_for_candidate_symbol
+SGX_7c81ae170c96,2021-12-20,JLB,Grand Venture Technology,institutional,buy,9,no_history_for_candidate_symbol
+SGX_7c81ae170c96,2021-12-20,T39,SPH,retail,sell,3,no_history_for_candidate_symbol
+SGX_7c81ae170c96,2021-12-20,JLB,Grand Venture Technology,retail,sell,6,no_history_for_candidate_symbol
+SGX_471802d14461,2021-12-27,T39,SPH,institutional,buy,3,no_history_for_candidate_symbol
+SGX_471802d14461,2021-12-27,RW0U,Mapletree North Asia Commercial Trust,institutional,sell,3,no_history_for_candidate_symbol
+SGX_471802d14461,2021-12-27,RW0U,Mapletree North Asia Commercial Trust,retail,buy,7,no_history_for_candidate_symbol
+SGX_471802d14461,2021-12-27,T39,SPH,retail,sell,2,no_history_for_candidate_symbol
+SGX_10833417b6e4,2022-01-03,T39,SPH,institutional,buy,8,no_history_for_candidate_symbol
+SGX_10833417b6e4,2022-01-03,RW0U,Mapletree North Asia Commercial Trust,institutional,sell,10,no_history_for_candidate_symbol
+SGX_10833417b6e4,2022-01-03,RW0U,Mapletree North Asia Commercial Trust,retail,buy,4,no_history_for_candidate_symbol
+SGX_10833417b6e4,2022-01-03,T39,SPH,retail,sell,7,no_history_for_candidate_symbol
+SGX_041a6e870f23,2022-01-10,RW0U,Mapletree North Asia Commercial Trust,retail,sell,5,no_history_for_candidate_symbol
+SGX_041a6e870f23,2022-01-10,T39,SPH,retail,sell,10,no_history_for_candidate_symbol
+SGX_7e8385e16210,2022-01-17,T39,SPH,institutional,buy,6,no_history_for_candidate_symbol
+SGX_7e8385e16210,2022-01-17,T39,SPH,retail,sell,5,no_history_for_candidate_symbol
+SGX_7e8385e16210,2022-01-17,RW0U,Mapletree North Asia Commercial Trust,retail,sell,9,no_history_for_candidate_symbol
+SGX_87e65c8868af,2022-01-24,T39,SPH,institutional,buy,4,no_history_for_candidate_symbol
+SGX_87e65c8868af,2022-01-24,VTA,Vertex Technology Acquisition Corporation,institutional,sell,6,no_history_for_candidate_symbol
+SGX_87e65c8868af,2022-01-24,VTA,Vertex Technology Acquisition Corporation,retail,buy,7,no_history_for_candidate_symbol
+SGX_87e65c8868af,2022-01-24,T39,SPH,retail,sell,4,no_history_for_candidate_symbol
+SGX_d60860571950,2022-01-31,T39,SPH,institutional,buy,3,no_history_for_candidate_symbol
+SGX_d60860571950,2022-01-31,RW0U,Mapletree North Asia Commercial Trust,institutional,buy,4,no_history_for_candidate_symbol
+SGX_d60860571950,2022-01-31,T39,SPH,retail,sell,5,no_history_for_candidate_symbol
+SGX_d60860571950,2022-01-31,RW0U,Mapletree North Asia Commercial Trust,retail,sell,6,no_history_for_candidate_symbol
+SGX_d60860571950,2022-01-31,PGU,Pegasus Asia,retail,sell,9,no_history_for_candidate_symbol
+SGX_0b94fc4ea337,2022-02-28,T39,SPH,institutional,buy,6,no_history_for_candidate_symbol
+SGX_0b94fc4ea337,2022-02-28,T39,SPH,retail,sell,6,no_history_for_candidate_symbol
+SGX_6c1699ad497b,2022-03-07,T39,SPH,institutional,buy,8,no_history_for_candidate_symbol
+SGX_6c1699ad497b,2022-03-07,T39,SPH,retail,sell,7,no_history_for_candidate_symbol
+SGX_08291e852c79,2022-03-14,T39,SPH,retail,sell,8,no_history_for_candidate_symbol
+SGX_25a84c368e39,2022-03-21,RW0U,Mapletree North Asia Commercial Trust,institutional,sell,3,no_history_for_candidate_symbol
+SGX_25a84c368e39,2022-03-21,RW0U,Mapletree North Asia Commercial Trust,retail,buy,1,no_history_for_candidate_symbol
+SGX_25a84c368e39,2022-03-21,SK6U,SPH REIT,retail,buy,9,no_history_for_candidate_symbol
+SGX_067246413b14,2022-03-28,RW0U,Mapletree North Asia Commercial Trust,institutional,buy,1,no_history_for_candidate_symbol
+SGX_067246413b14,2022-03-28,RW0U,Mapletree North Asia Commercial Trust,retail,sell,1,no_history_for_candidate_symbol
+SGX_4e0657942f47,2022-04-04,RW0U,Mapletree North Asia Commercial Trust,institutional,buy,7,no_history_for_candidate_symbol
+SGX_4e0657942f47,2022-04-04,RW0U,Mapletree North Asia Commercial Trust,retail,sell,8,no_history_for_candidate_symbol
+SGX_06a9b51d8cf8,2022-04-11,RW0U,Mapletree North Asia Commercial Trust,institutional,buy,3,no_history_for_candidate_symbol
+SGX_06a9b51d8cf8,2022-04-11,T39,SPH,institutional,sell,8,no_history_for_candidate_symbol
+SGX_06a9b51d8cf8,2022-04-11,SK6U,SPH REIT,retail,buy,7,no_history_for_candidate_symbol
+SGX_06a9b51d8cf8,2022-04-11,T39,SPH,retail,sell,3,no_history_for_candidate_symbol
+SGX_06a9b51d8cf8,2022-04-11,RW0U,Mapletree North Asia Commercial Trust,retail,sell,4,no_history_for_candidate_symbol
+SGX_116edb91a4a7,2022-04-18,RW0U,Mapletree North Asia Commercial Trust,retail,sell,6,no_history_for_candidate_symbol
+SGX_aa840e6721bd,2022-04-25,AUE,Golden Energy and Resources,retail,sell,10,no_history_for_candidate_symbol
+SGX_00c364feeabd,2022-05-09,RW0U,Mapletree North Asia Commercial Trust,institutional,buy,7,no_history_for_candidate_symbol
+SGX_00c364feeabd,2022-05-09,AUE,Golden Energy and Resources,retail,sell,5,no_history_for_candidate_symbol
+SGX_00c364feeabd,2022-05-09,RW0U,Mapletree North Asia Commercial Trust,retail,sell,6,no_history_for_candidate_symbol
+SGX_4f538612505e,2022-05-16,RW0U,Mapletree North Asia Commercial Trust,institutional,buy,9,no_history_for_candidate_symbol
+SGX_4f538612505e,2022-05-16,RW0U,Mapletree North Asia Commercial Trust,retail,sell,4,no_history_for_candidate_symbol
+SGX_4f538612505e,2022-05-16,BVQ,Procurri Corporation,retail,sell,8,no_history_for_candidate_symbol
+SGX_995f4d9b1bf1,2022-05-23,BVQ,Procurri Corp,institutional,buy,7,no_history_for_candidate_symbol
+SGX_995f4d9b1bf1,2022-05-23,BVQ,Procurri Corp,retail,sell,8,no_history_for_candidate_symbol
+SGX_7857645bc73a,2022-05-30,BVQ,Procurri Corporation,institutional,buy,5,no_history_for_candidate_symbol
+SGX_7857645bc73a,2022-05-30,RW0U,Mapletree North Asia Commercial Trust,institutional,buy,7,no_history_for_candidate_symbol
+SGX_7857645bc73a,2022-05-30,RW0U,Mapletree North Asia Commercial Trust,retail,sell,2,no_history_for_candidate_symbol
+SGX_7857645bc73a,2022-05-30,BVQ,Procurri Corporation,retail,sell,3,no_history_for_candidate_symbol
+SGX_8977194394a7,2022-06-06,RW0U,Mapletree North Asia Commercial Trust,institutional,buy,8,no_history_for_candidate_symbol
+SGX_8977194394a7,2022-06-06,SK6U,SPH REIT,retail,sell,10,no_history_for_candidate_symbol
+SGX_c37284d46084,2022-06-13,RW0U,Mapletree North Asia Commercial Trust,institutional,sell,5,no_history_for_candidate_symbol
+SGX_c37284d46084,2022-06-13,BVQ,Procurri Corp,institutional,sell,9,no_history_for_candidate_symbol
+SGX_c37284d46084,2022-06-13,SK6U,SPH REIT,retail,sell,4,no_history_for_candidate_symbol
+SGX_d0a0cc34161b,2022-06-20,ACV,Frasers Hospitality Trust,institutional,buy,2,no_history_for_candidate_symbol
+SGX_d0a0cc34161b,2022-06-20,ACV,Frasers Hospitality Trust,retail,sell,1,no_history_for_candidate_symbol
+SGX_d0a0cc34161b,2022-06-20,SK6U,SPH REIT,retail,sell,6,no_history_for_candidate_symbol
+SGX_e03641405176,2022-07-11,SK6U,SPH REIT,retail,buy,7,no_history_for_candidate_symbol
+SGX_e03641405176,2022-07-11,ACV,Frasers Hospitality Trust,retail,sell,7,no_history_for_candidate_symbol
+SGX_39c9241eb9a9,2022-07-18,ACV,Frasers Hospitality Trust,institutional,buy,7,no_history_for_candidate_symbol
+SGX_7bb935353e0f,2022-09-05,AUE,Golden Energy And Resources,institutional,buy,10,no_history_for_candidate_symbol
+SGX_7bb935353e0f,2022-09-05,AUE,Golden Energy and Resources,retail,sell,7,no_history_for_candidate_symbol
+SGX_2bfe6b02264f,2022-09-12,C29,Chip Eng Seng Corporation,institutional,sell,5,no_history_for_candidate_symbol
+SGX_2bfe6b02264f,2022-09-12,NTA,Novo Tellus Alpha SPAC,institutional,sell,9,no_history_for_candidate_symbol
+SGX_2bfe6b02264f,2022-09-12,C29,Chip Eng Seng Corporation,retail,buy,9,no_history_for_candidate_symbol
+SGX_2bfe6b02264f,2022-09-12,AUE,Golden Energy And Resources,retail,sell,9,no_history_for_candidate_symbol
+SGX_fdb78628f273,2022-09-19,ACV,Frasers Hospitality Trust,institutional,sell,1,no_history_for_candidate_symbol
+SGX_fdb78628f273,2022-09-19,SK6U,SPH REIT,institutional,sell,8,no_history_for_candidate_symbol
+SGX_fdb78628f273,2022-09-19,ACV,Frasers Hospitality Trust,retail,buy,2,no_history_for_candidate_symbol
+SGX_fdb78628f273,2022-09-19,SK6U,SPH REIT,retail,buy,10,no_history_for_candidate_symbol
+SGX_521cf80636a8,2022-09-26,AUE,Golden Energy And Resources,retail,sell,10,no_history_for_candidate_symbol
+SGX_08c2a63bd7f3,2022-10-17,C29,Chip Eng Seng Corporation,institutional,buy,10,no_history_for_candidate_symbol
+SGX_08c2a63bd7f3,2022-10-17,C29,Chip Eng Seng Corporation,retail,sell,5,no_history_for_candidate_symbol
+SGX_0a9eda5291ec,2022-11-21,CGN,Best World International,institutional,sell,8,no_history_for_candidate_symbol
+SGX_0a9eda5291ec,2022-11-21,CGN,Best World International,retail,buy,8,no_history_for_candidate_symbol
+SGX_36b7c9c0d6e6,2022-11-28,C29,Chip Eng Seng Corporation,institutional,buy,2,no_history_for_candidate_symbol
+SGX_36b7c9c0d6e6,2022-11-28,5VJ,Halcyon Agri Corporation,institutional,buy,10,no_history_for_candidate_symbol
+SGX_36b7c9c0d6e6,2022-11-28,C29,Chip Eng Seng Corporation,retail,sell,1,no_history_for_candidate_symbol
+SGX_2dc696fdcdc6,2022-12-05,C29,Chip Eng Seng Corporation,retail,sell,10,no_history_for_candidate_symbol
+SGX_895ed95a3b31,2022-12-12,C29,Chip Eng Seng Corporation,institutional,buy,7,no_history_for_candidate_symbol
+SGX_895ed95a3b31,2022-12-12,C29,Chip Eng Seng Corporation,retail,sell,7,no_history_for_candidate_symbol
+SGX_4ae3c3dcef59,2023-01-09,5VJ,Halcyon Agri Corporation,retail,sell,6,no_history_for_candidate_symbol
+SGX_55ed53fb08f1,2023-02-20,AVM,Boustead Projects,retail,sell,8,no_history_for_candidate_symbol
+SGX_55ed53fb08f1,2023-02-20,SK6U,Paragon REIT,retail,sell,10,no_history_for_candidate_symbol
+SGX_546288f0ad0f,2023-02-27,AUE,Golden Energy and Resources,institutional,buy,9,no_history_for_candidate_symbol
+SGX_546288f0ad0f,2023-02-27,AVM,Boustead Projects,retail,sell,5,no_history_for_candidate_symbol
+SGX_546288f0ad0f,2023-02-27,AUE,Golden Energy and Resources,retail,sell,7,no_history_for_candidate_symbol
+SGX_7d0d157ca9ed,2023-03-06,G41,G.K. Goh Holdings,institutional,buy,7,no_history_for_candidate_symbol
+SGX_7d0d157ca9ed,2023-03-06,G41,G.K. Goh Holdings,retail,sell,6,no_history_for_candidate_symbol
+SGX_4f0a950e30b1,2023-03-13,CGN,Best World International,retail,sell,9,no_history_for_candidate_symbol
+SGX_d5d72d0b47e2,2023-03-27,AUE,Golden Energy and Resources,retail,sell,8,no_history_for_candidate_symbol
+SGX_b23c911681b4,2023-06-05,AUE,Golden Energy And Resources,institutional,buy,10,no_history_for_candidate_symbol
+SGX_70dd28551853,2023-07-03,L03,Lian Beng Group,institutional,buy,3,no_history_for_candidate_symbol
+SGX_70dd28551853,2023-07-03,L03,Lian Beng Group,retail,sell,3,no_history_for_candidate_symbol
+SGX_b0d18162b431,2023-07-17,5I4,ICP,institutional,buy,8,no_history_for_candidate_symbol
+SGX_5d1bcd4b2845,2023-10-09,CGN,Best World International,retail,sell,5,no_history_for_candidate_symbol
+SGX_5d1bcd4b2845,2023-10-09,ACV,Frasers Hospitality Trust,retail,sell,6,no_history_for_candidate_symbol
+SGX_309235a6f973,2023-10-30,ACV,Frasers Hospitality Trust,retail,sell,10,no_history_for_candidate_symbol
+SGX_c664806d2064,2023-11-20,A34,Amara Holdings,institutional,buy,9,no_history_for_candidate_symbol
+SGX_c664806d2064,2023-11-20,A34,Amara Holdings,retail,sell,10,no_history_for_candidate_symbol
+SGX_ba56e3490c5c,2023-12-18,BLH,Hai Leck Holdings,retail,buy,10,no_history_for_candidate_symbol
+SGX_2cc8ffd9abde,2024-01-15,NO4,Dyna-Mac Holdings,institutional,sell,4,no_history_for_candidate_symbol
+SGX_2cc8ffd9abde,2024-01-15,NO4,Dyna-Mac Holdings,retail,buy,6,no_history_for_candidate_symbol
+SGX_f2e6c6d08437,2024-03-04,NO4,Dyna-Mac Holdings,institutional,buy,10,no_history_for_candidate_symbol
+SGX_f2e6c6d08437,2024-03-04,NO4,Dyna-Mac Holdings,retail,sell,7,no_history_for_candidate_symbol
+SGX_f2e6c6d08437,2024-03-04,CWBU,Cromwell European REIT,retail,sell,8,no_history_for_candidate_symbol
+SGX_65888a4a8e16,2024-03-18,NO4,Dyna-Mac,retail,sell,6,no_history_for_candidate_symbol
+SGX_1f7ffdfe21ce,2024-04-08,NO4,Dyna-Mac Holdings,retail,sell,6,no_history_for_candidate_symbol
+SGX_27043d49b5a3,2024-04-15,NO4,Dyna-Mac Holdings,institutional,buy,7,no_history_for_candidate_symbol
+SGX_27043d49b5a3,2024-04-15,CGN,Best World International,retail,sell,8,no_history_for_candidate_symbol
+SGX_27043d49b5a3,2024-04-15,NO4,Dyna-Mac Holdings,retail,sell,10,no_history_for_candidate_symbol
+SGX_c9d20e9dd816,2024-05-06,CGN,Best World International,institutional,buy,9,no_history_for_candidate_symbol
+SGX_c9d20e9dd816,2024-05-06,CGN,Best World International,retail,sell,9,no_history_for_candidate_symbol
+SGX_a28b2ca9ab05,2024-06-18,UD2,Japfa,retail,sell,9,no_history_for_candidate_symbol
+SGX_598be7997fff,2024-07-29,NO4,Dyna-Mac,retail,sell,6,no_history_for_candidate_symbol
+SGX_598be7997fff,2024-07-29,CGN,Best World International,retail,sell,10,no_history_for_candidate_symbol
+SGX_d9a1cd15afc8,2024-08-12,NO4,Dyna-Mac,retail,sell,10,no_history_for_candidate_symbol
+SGX_211e6d0fde67,2024-09-02,5CP,Silverlake Axis,institutional,buy,10,no_history_for_candidate_symbol
+SGX_211e6d0fde67,2024-09-02,NO4,Dyna-Mac,institutional,sell,10,no_history_for_candidate_symbol
+SGX_211e6d0fde67,2024-09-02,NO4,Dyna-Mac,retail,buy,8,no_history_for_candidate_symbol
+SGX_211e6d0fde67,2024-09-02,5CP,Silverlake Axis,retail,sell,8,no_history_for_candidate_symbol
+SGX_0a23a4e93549,2024-09-09,CGN,Best World International,institutional,sell,4,no_history_for_candidate_symbol
+SGX_0a23a4e93549,2024-09-09,CGN,Best World International,retail,buy,8,no_history_for_candidate_symbol
+SGX_80286a2a1ff5,2024-09-16,SK6U,Paragon REIT,retail,buy,9,no_history_for_candidate_symbol
+SGX_80286a2a1ff5,2024-09-16,NO4,Dyna-Mac,retail,sell,8,no_history_for_candidate_symbol
+SGX_17aeea9b3376,2024-09-23,SK6U,Paragon REIT,institutional,sell,7,no_history_for_candidate_symbol
+SGX_17aeea9b3376,2024-09-23,SK6U,Paragon REIT,retail,buy,8,no_history_for_candidate_symbol
+SGX_a6153ac0a7bb,2024-09-30,5CP,Silverlake Axis,retail,buy,5,no_history_for_candidate_symbol
+SGX_a690bc3d0f3a,2024-10-14,NO4,Dyna-Mac Holdings,institutional,buy,9,no_history_for_candidate_symbol
+SGX_a690bc3d0f3a,2024-10-14,NO4,Dyna-Mac Holdings,retail,sell,10,no_history_for_candidate_symbol
+SGX_881bfbc4a91e,2024-10-21,NO4,Dyna-Mac,institutional,sell,9,no_history_for_candidate_symbol
+SGX_881bfbc4a91e,2024-10-21,NO4,Dyna-Mac,retail,buy,5,no_history_for_candidate_symbol
+SGX_5739e252bdde,2024-10-28,NO4,Dyna-Mac,retail,sell,5,no_history_for_candidate_symbol
+SGX_d8b6b72d3417,2024-11-04,B69,Broadway Industrial Group,institutional,buy,1,no_history_for_candidate_symbol
+SGX_d8b6b72d3417,2024-11-04,NO4,Dyna-Mac,institutional,buy,2,no_history_for_candidate_symbol
+SGX_d8b6b72d3417,2024-11-04,B69,Broadway Industrial Group,retail,sell,1,no_history_for_candidate_symbol
+SGX_d8b6b72d3417,2024-11-04,NO4,Dyna-Mac,retail,sell,7,no_history_for_candidate_symbol
+SGX_98269fe9d5e0,2025-01-06,ACV,Frasers Hospitality Trust,institutional,buy,8,no_history_for_candidate_symbol
+SGX_b6c3b42393b1,2025-02-03,UD2,Japfa,institutional,buy,6,no_history_for_candidate_symbol
+SGX_b6c3b42393b1,2025-02-03,UD2,Japfa,retail,sell,7,no_history_for_candidate_symbol
+SGX_072c56853bf8,2025-02-10,UD2,Japfa,institutional,buy,5,no_history_for_candidate_symbol
+SGX_072c56853bf8,2025-02-10,UD2,Japfa,retail,sell,4,no_history_for_candidate_symbol
+SGX_dc50df1813ab,2025-02-17,SK6U,Paragon REIT,retail,sell,10,no_history_for_candidate_symbol
+SGX_ce07f36fa741,2025-02-24,SK6U,Paragon REIT,retail,sell,7,no_history_for_candidate_symbol
+SGX_26f7ec773691,2025-04-01,SK6U,Paragon REIT,institutional,buy,1,no_history_for_candidate_symbol
+SGX_503448246fb4,2025-04-14,SK6U,Paragon REIT,retail,sell,10,no_history_for_candidate_symbol
+SGX_a44a13ce2c95,2025-04-28,A26,Sinarmas Land,institutional,buy,6,no_history_for_candidate_symbol
+SGX_33c2fa19c548,2025-05-05,A26,Sinarmas Land,retail,sell,7,no_history_for_candidate_symbol
+SGX_6581df6e250c,2025-05-19,ACV,Frasers Hospitality Trust,institutional,buy,8,no_history_for_candidate_symbol
+SGX_6581df6e250c,2025-05-19,ACV,Frasers Hospitality Trust,retail,sell,9,no_history_for_candidate_symbol
+SGX_77654555906c,2025-06-02,ACV,Frasers Hospitality Trust,retail,sell,10,no_history_for_candidate_symbol
+SGX_16d302be32b1,2025-06-30,ACV,Frasers Hospitality Trust,institutional,buy,6,no_history_for_candidate_symbol
+SGX_00633fb9c2fc,2025-07-14,ACV,Frasers Hospitality Trust,institutional,buy,6,no_history_for_candidate_symbol
+SGX_00633fb9c2fc,2025-07-14,ACV,Frasers Hospitality Trust,retail,sell,9,no_history_for_candidate_symbol
+SGX_d5f042840d9d,2026-01-19,F1E,Low Keng Huat,institutional,buy,6,no_history_for_candidate_symbol
+SGX_d5f042840d9d,2026-01-19,F1E,Low Keng Huat,retail,sell,6,no_history_for_candidate_symbol

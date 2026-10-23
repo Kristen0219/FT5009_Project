@@ -1,0 +1,3 @@
+historical_code,price_symbol,canonical_security_id,trading_code_change_date,new_to_old_ratio,event_relation_status,history_quality_status,source_url
+S51,5E2.SI,SGX_5E2,2024-05-07,1:20,official_code_relation_supported,vendor_backward_adjustment_not_independently_repriced,https://investors.seatrium.com/newsroom/20240509_212538_5E2_JWAVWHTZLDL0LJ8G.1.pdf
+J91U,9A4U.SI,SGX_9A4U,2025-04-30,1:10,official_code_relation_supported,vendor_backward_adjustment_not_independently_repriced,https://links.sgx.com/1.0.0/corporate-announcements/9FUJ1NOQ62GVZ502/844436_ESR-REIT%20-%20Completion%20Announcement_5%20May%202025_vF.pdf
