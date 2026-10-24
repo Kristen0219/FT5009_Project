@@ -166,7 +166,7 @@ def generate(out, summary, liq, paths, benchmark, decisions, audit):
     main_cols = ['cumulative_return','annualised_return','annualised_volatility','maximum_drawdown','sharpe','sortino']
     report = f'''# Member 2 — Institutional enhancement and performance evaluation
 
-Scope: assignment Parts 3 (3 marks), 4 (3 marks), and Member 2's contribution to Part 6. This is a chapter draft; it is not the final group report. The companion PDF is a three-page A4 extract for integration into the group's maximum ten pages. Names and matriculation numbers must be supplied by the group; none are invented.
+This chapter covers the institutional strategy enhancement and performance evaluation in Parts 3–4.
 
 ## 3. Fixed enhancement and common execution
 
@@ -194,7 +194,7 @@ Net strategy returns and the benchmark reference:
 
 {stability_text}
 
-All six metrics for every strategy/scenario/subperiod are available in performance.csv; the table above focuses on cumulative returns. Period lengths differ, so consult annualised returns and volatility in that file before comparing magnitudes. Full-period drawdown may span subperiod boundaries and need not equal the worst local drawdown.
+The complete period and scenario results are in performance.csv. Annualised measures account for the different period lengths. Full-period drawdowns can span period boundaries.
 
 ## 4c. Costs, turnover and trading feasibility
 
@@ -212,19 +212,20 @@ Execution-day participation = abs(SGD notional)/(SGD vendor close * vendor share
 
 {limitations}
 
-{text} {stability_text} A conclusion about improvement must state the costs, volatility, drawdown and period instability together; a single return ranking is insufficient.
+The SMA filter reduces net losses in all three subperiods, but the enhanced strategy remains unprofitable after costs. Its smaller drawdown comes with slightly higher realised volatility than the original institutional strategy. Lower exposure and turnover account for part of the difference.
 
-The enhanced strategy has {audit['active_flagged_return_rows']} active start-of-day holding rows on Member 1's unverified >50% return observations; see risk_handoff/active_flagged_returns.csv. This check does not certify vendor returns or justify deleting outliers. Separate quarantined risk returns preserve missing observations. Exact 500-session history gaps are {json.dumps(audit['var_history_gaps'])}. Member 3 must compute signed-holdings 99% historical VaR and rolling risk analysis; this chapter does not claim Part 5 is complete. Compressed net holdings for all three strategies, daily NAV/cost paths, quarantined aligned returns and forecast coverage are provided. Do not drop dates or fill missing returns with zero.
+There are {audit['active_flagged_return_rows']} active start-of-day positions on the flagged >50% daily returns. The risk inputs retain Member 1's quarantine of unverified observations. The 500-session coverage gaps are {json.dumps(audit['var_history_gaps'])}. Signed holdings, daily NAV and aligned risk returns are provided for Member 3's rolling volatility and 99% historical VaR calculations. Missing observations remain missing.
 
 ## Sources, attribution and reproducibility
 
-- Assignment: FT5009 Group Project AY2026/27, supplied group_project.pdf, Parts 3–4 and 6.
+- Assignment: FT5009 Group Project AY2026/27, group_project.pdf, Parts 3–4 and 6.
 - SGX Weekly Top 10 source reports, official ES3 NAV/distributions, vendor prices and source checksums: Member 1's collected data, README.md and REQUIREMENTS_AUDIT.md. Source portal: https://www.sgx.com/stock-exchange/data-reports?reportType=203 .
-- FT5009 Lecture 8, supplied FT5009_L08.pdf: physical PDF pp. 16 and 21 (SMA and price-versus-average strategy), pp. 42–47 (performance formulas), pp. 52–54 (bias, overfitting and realistic costs). The lecture illustrates short windows and a long/cash rule; 126 daily sessions, SGD total-return inputs and symmetric short confirmation are our stated adaptations.
-- FT5009 Lecture 2, supplied FT5009_L02.pdf, physical PDF pp. 16–18: missing data, outlier review and point-in-time information. FT5009 Lecture 7, supplied FT5009_L07_upload.pdf, physical PDF pp. 12 and 16–17: impact, order-book depth and execution liquidity.
-- AI assistance: OpenAI Codex assisted with implementation, tests, analysis and draft writing. Members must review the work, verify course alignment and take responsibility for final submitted claims. Member 1 retains credit for original collection and baseline engine; Member 2 adds enhancement, evaluation, charts, tests and this chapter.
+- FT5009 Lecture 8, FT5009_L08.pdf: physical PDF pp. 16 and 21 (SMA and price-versus-average strategy), pp. 42–47 (performance formulas), pp. 52–54 (bias, overfitting and realistic costs). The lecture illustrates short windows and a long/cash rule; 126 daily sessions, SGD total-return inputs and symmetric short confirmation are our stated adaptations.
+- FT5009 Lecture 2, FT5009_L02.pdf, physical PDF pp. 16–18: missing data, outlier review and point-in-time information. FT5009 Lecture 7, FT5009_L07_upload.pdf, physical PDF pp. 12 and 16–17: impact, order-book depth and execution liquidity.
+- Contributions: Member 1 collected the data and developed the baseline engine. Member 2 added the enhancement, evaluation, figures and tests.
+- AI assistance: OpenAI Codex was used for coding, analysis and drafting.
 
-Run instructions are in ../README.md. validation.json records source hashes, versions and conventions; artifact_sha256.json records output checksums. The supplied chat-share link could not be retrieved in this environment and is not a source for any claimed requirement.
+Run instructions are in [README.md](../README.md). Source hashes and checks are recorded in validation.json; output checksums are in artifact_sha256.json.
 '''
     (out/'MEMBER2_REPORT.md').write_text(report)
     handoff = '''# Member 3 risk handoff
@@ -261,7 +262,7 @@ For forecast session t, use holdings at close t-1, NAV at t-1, and exactly the 5
         y-=.17
         y=pdf_text(ax,0,y,text,width=106,size=8.6,spacing=.019)
         y=pdf_text(ax,0,y-.01,conventions,width=110,size=7.8,spacing=.017)
-        pdf_text(ax,0,.025,'Chapter draft for integration; group must add names, matriculation numbers and contributions.  |  1/3',size=7,width=120)
+        pdf_text(ax,0,.025,'FT5009 | Institutional strategy enhancement and performance evaluation  |  1/3',size=7,width=120)
         pdf.savefig(fig);plt.close(fig)
         fig=plot_paths(paths,benchmark)
         fig.set_size_inches(8.27,11.69)
@@ -290,6 +291,6 @@ For forecast session t, use holdings at close t-1, NAV at t-1, and exactly the 5
             'Assumed universal borrow, zero cash interest, no recalls, margin or nonlinear impact further limit realism. '
             'All three net strategies and doubled-cost paths lose money: none establishes trading viability.')
         y=pdf_text(ax,0,y-.01,pdf_limitations,width=112,size=7.5,spacing=.016)
-        y=pdf_text(ax,0,y-.008,'Sources: supplied FT5009 AY2026/27 assignment; SGX Weekly Top 10 and Member 1 collected data/audit; FT5009 L08 physical PDF pp. 16/21 (SMA rule), 42–47 (performance), 52–54 (pitfalls); L02 pp. 16–18 (data/PIT); L07 pp. 12/16–17 (impact/depth). AI: OpenAI Codex assisted with code, analysis and text. See Markdown chapter for full formulas, tables, sources and Member 3 handoff. Part 5 and final group submission remain separate.',width=112,size=7.1,spacing=.015)
-        pdf_text(ax,0,.025,'Standalone Member 2 extract; integrate within the final group limit of 10 A4 pages.  |  3/3',size=7,width=120)
+        y=pdf_text(ax,0,y-.008,'Sources: FT5009 AY2026/27 assignment; SGX Weekly Top 10 and Member 1 collected data/audit; FT5009 L08 physical PDF pp. 16/21 (SMA rule), 42–47 (performance), 52–54 (pitfalls); L02 pp. 16–18 (data/PIT); L07 pp. 12/16–17 (impact/depth). AI: OpenAI Codex assisted with code, analysis and text. Full formulas, tables and risk inputs accompany this chapter.',width=112,size=7.1,spacing=.015)
+        pdf_text(ax,0,.025,'FT5009 | Institutional strategy enhancement and performance evaluation  |  3/3',size=7,width=120)
         pdf.savefig(fig);plt.close(fig)

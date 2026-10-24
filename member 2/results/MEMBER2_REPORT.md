@@ -1,6 +1,6 @@
 # Member 2 — Institutional enhancement and performance evaluation
 
-Scope: assignment Parts 3 (3 marks), 4 (3 marks), and Member 2's contribution to Part 6. This is a chapter draft; it is not the final group report. The companion PDF is a three-page A4 extract for integration into the group's maximum ten pages. Names and matriculation numbers must be supplied by the group; none are invented.
+This chapter covers the institutional strategy enhancement and performance evaluation in Parts 3–4.
 
 ## 3. Fixed enhancement and common execution
 
@@ -38,7 +38,7 @@ On this restricted sample, retail flow has the higher full-period net cumulative
 
 2019–2021: institutional -31.79%, enhanced -25.04% (+6.74 percentage points). 2022–2023: institutional -18.79%, enhanced -16.44% (+2.35 percentage points). 2024–Sep2026: institutional -30.08%, enhanced -12.13% (+17.95 percentage points). The enhancement improves cumulative return in every prescribed subperiod.
 
-All six metrics for every strategy/scenario/subperiod are available in performance.csv; the table above focuses on cumulative returns. Period lengths differ, so consult annualised returns and volatility in that file before comparing magnitudes. Full-period drawdown may span subperiod boundaries and need not equal the worst local drawdown.
+The complete period and scenario results are in performance.csv. Annualised measures account for the different period lengths. Full-period drawdowns can span period boundaries.
 
 ## 4c. Costs, turnover and trading feasibility
 
@@ -56,16 +56,17 @@ Execution-day participation = abs(SGD notional)/(SGD vendor close * vendor share
 
 These are descriptive restricted-sample results, not a causal test that investor type predicts returns. No development/test split is required by the assignment; no claim of out-of-sample validation is made. The ES3 official NAV/distribution reinvestment proxy is suitable SGD market context but is long-only, has different market exposure, and is neither the official STI total-return index nor an executable ETF-price portfolio. The strategies' Sharpe comparisons do not adjust for beta or unequal realised exposure. Inherited missing/delisted histories, fixed-universe/survivorship bias, candidate identities, current vendor vintages, uncertain publication timestamps, corporate actions and lagged FX remain. Vendor split-adjusted price/volume pairs approximate turnover capacity, not certified exchange dollar volume. Execution-day participation is ex-post; strictly lagged 21-session mean dollar volume is a separate planning proxy. No liquidity filter is silently imposed. Fixed fees omit spread variation, nonlinear impact, borrow recalls and actual availability. Profitable cost-stress paths are therefore not proof of implementability, and negative paths fail this simplified viability test. Orders exceeding 100% of reported daily volume could not be fully executed within that day on the recorded volume basis. They expose an unconstrained-fill limitation or a vendor-basis issue requiring investigation, not merely a modest slippage adjustment; see liquidity_extreme_trades.csv. No claim of executable profits is justified.
 
-On this restricted sample, retail flow has the higher full-period net cumulative return. The enhancement changes institutional net cumulative return by 16.30 percentage points (-61.27% to -44.96%). Its annualised volatility is 5.91% versus original 5.72%; maximum drawdown is -45.72%, Sharpe -1.280 and Sortino -1.701, versus original institutional Sharpe -2.119. All three strategies lose money after base costs; the enhancement reduces losses and drawdown but does not make this trading rule viable. Its mean gross exposure falls from 86.87% to 59.75%; lower exposure need not improve signal alpha. 2019–2021: institutional -31.79%, enhanced -25.04% (+6.74 percentage points). 2022–2023: institutional -18.79%, enhanced -16.44% (+2.35 percentage points). 2024–Sep2026: institutional -30.08%, enhanced -12.13% (+17.95 percentage points). The enhancement improves cumulative return in every prescribed subperiod. A conclusion about improvement must state the costs, volatility, drawdown and period instability together; a single return ranking is insufficient.
+The SMA filter reduces net losses in all three subperiods, but the enhanced strategy remains unprofitable after costs. Its smaller drawdown comes with slightly higher realised volatility than the original institutional strategy. Lower exposure and turnover account for part of the difference.
 
-The enhanced strategy has 0 active start-of-day holding rows on Member 1's unverified >50% return observations; see risk_handoff/active_flagged_returns.csv. This check does not certify vendor returns or justify deleting outliers. Separate quarantined risk returns preserve missing observations. Exact 500-session history gaps are {"enhanced": 19, "institutional": 46, "retail": 82}. Member 3 must compute signed-holdings 99% historical VaR and rolling risk analysis; this chapter does not claim Part 5 is complete. Compressed net holdings for all three strategies, daily NAV/cost paths, quarantined aligned returns and forecast coverage are provided. Do not drop dates or fill missing returns with zero.
+There are 0 active start-of-day positions on the flagged >50% daily returns. The risk inputs retain Member 1's quarantine of unverified observations. The 500-session coverage gaps are {"enhanced": 19, "institutional": 46, "retail": 82}. Signed holdings, daily NAV and aligned risk returns are provided for Member 3's rolling volatility and 99% historical VaR calculations. Missing observations remain missing.
 
 ## Sources, attribution and reproducibility
 
-- Assignment: FT5009 Group Project AY2026/27, supplied group_project.pdf, Parts 3–4 and 6.
+- Assignment: FT5009 Group Project AY2026/27, group_project.pdf, Parts 3–4 and 6.
 - SGX Weekly Top 10 source reports, official ES3 NAV/distributions, vendor prices and source checksums: Member 1's collected data, README.md and REQUIREMENTS_AUDIT.md. Source portal: https://www.sgx.com/stock-exchange/data-reports?reportType=203 .
-- FT5009 Lecture 8, supplied FT5009_L08.pdf: physical PDF pp. 16 and 21 (SMA and price-versus-average strategy), pp. 42–47 (performance formulas), pp. 52–54 (bias, overfitting and realistic costs). The lecture illustrates short windows and a long/cash rule; 126 daily sessions, SGD total-return inputs and symmetric short confirmation are our stated adaptations.
-- FT5009 Lecture 2, supplied FT5009_L02.pdf, physical PDF pp. 16–18: missing data, outlier review and point-in-time information. FT5009 Lecture 7, supplied FT5009_L07_upload.pdf, physical PDF pp. 12 and 16–17: impact, order-book depth and execution liquidity.
-- AI assistance: OpenAI Codex assisted with implementation, tests, analysis and draft writing. Members must review the work, verify course alignment and take responsibility for final submitted claims. Member 1 retains credit for original collection and baseline engine; Member 2 adds enhancement, evaluation, charts, tests and this chapter.
+- FT5009 Lecture 8, FT5009_L08.pdf: physical PDF pp. 16 and 21 (SMA and price-versus-average strategy), pp. 42–47 (performance formulas), pp. 52–54 (bias, overfitting and realistic costs). The lecture illustrates short windows and a long/cash rule; 126 daily sessions, SGD total-return inputs and symmetric short confirmation are our stated adaptations.
+- FT5009 Lecture 2, FT5009_L02.pdf, physical PDF pp. 16–18: missing data, outlier review and point-in-time information. FT5009 Lecture 7, FT5009_L07_upload.pdf, physical PDF pp. 12 and 16–17: impact, order-book depth and execution liquidity.
+- Contributions: Member 1 collected the data and developed the baseline engine. Member 2 added the enhancement, evaluation, figures and tests.
+- AI assistance: OpenAI Codex was used for coding, analysis and drafting.
 
-Run instructions are in ../README.md. validation.json records source hashes, versions and conventions; artifact_sha256.json records output checksums. The supplied chat-share link could not be retrieved in this environment and is not a source for any claimed requirement.
+Run instructions are in [README.md](../README.md). Source hashes and checks are recorded in validation.json; output checksums are in artifact_sha256.json.
