@@ -4,7 +4,7 @@ Scope: Parts 3–4 and the corresponding report and code in FT5009 Group Project
 
 | Requirement | Implementation/evidence |
 | --- | --- |
-| 3a One justified course-concept enhancement | `enhancement.py`: fixed 126-session price-versus-SMA confirmation, directly adapted from Lecture 8 physical PDF pp. 16/21; symmetric short and total-return adaptations stated. `LECTURE_ALIGNMENT.md` identifies verified course references. No parameter optimisation. |
+| 3a One justified course-concept enhancement | `enhancement.py`: fixed 126-session price-versus-SMA confirmation, directly adapted from Lecture 8 physical PDF pp. 16/21; symmetric short and total-return adaptations stated. No parameter optimisation. |
 | 3b Implement, compare with original, fix rules | `run_member2.py`: all nine original/enhanced and cost paths; common universe and unchanged Member 1 execution engine. `enhancement_decisions.csv` logs every information date and accepted/rejected slot. No tuning API or parameter sweep. |
 | 4a All three strategies and suitable benchmark, cumulative returns/drawdowns | `figures/net_returns_drawdowns.png` and `.pdf`: net paths and ES3 NAV/distribution total-return proxy on identical dates, with initial capital in drawdown peaks. |
 | 4a Cumulative/annual return, annual realised vol, max drawdown, Sharpe, Sortino | `performance.csv` plus report tables. Formulas, 252-session convention, zero risk-free/target and downside denominator stated explicitly. |

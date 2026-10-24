@@ -11,4 +11,4 @@ python "member 2/run_member2.py"
 
 The enhancement confirms institutional flow signals using a fixed 126-day simple moving average, based on Lecture 8. All strategies use the same eligibility, execution and cost rules. The evaluation includes the benchmark, required subperiods, gross/net returns, doubled transaction costs, turnover and liquidity.
 
-The pipeline runs offline after installation and prepares a working copy under `work/`, leaving Member 1 unchanged. It regenerates `results/`. Read [the report](results/MEMBER2_REPORT.md) and Member 1's `REQUIREMENTS_AUDIT.md` before integration; the data-coverage and trading limitations apply to all results.
+The pipeline runs offline after installation and prepares a working copy under `work/`, leaving Member 1 unchanged. It regenerates `results/`. Read Member 1's `REQUIREMENTS_AUDIT.md` before integration; the data-coverage and trading limitations apply to all results.
